@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "Luciole-Bold";
+    src: url(../font/Luciole-Bold.ttf);
+}
+@font-face {
+    font-family: "Luciole-regular";
+    src: url(Luciole-Regular.ttf);
+}
+
+
+/*FOOTER*/
+
+
+#element-footer{
+    background-color:#023047;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+/* LIENS DU FOOTER*/
+
+.link1{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    font-family: "Luciole-Bold";
+    font-size: 16px;
+    line-height: 2em;
+}
+
+
+.link2{
+    color:#fff;
+    font-family: "Luciole-Bold";
+    font-size: 16px;
+    line-height: 6em;
+}
+
+/* LOGO*/
+
+.logo{
+    padding-left: 15px;
+    margin-top: 32px;
+}
