@@ -1,0 +1,94 @@
+@font-face {
+    font-family: "Luciole-Bold";
+    src: url(../font/Luciole-Bold.ttf);
+}
+@font-face {
+    font-family: "Luciole-Regular";
+    src: url(../font/Luciole-Regular.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none; 
+}
+*{
+    border: red solid 0px;
+}
+
+.containerlogo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.logopage{
+  height: 10rem;
+  width: 10rem;
+}
+.icon{
+  display: none;
+}
+
+.topnav {
+  display: flex;
+  justify-content: space-around;
+}
+a{
+  font-family: "Luciole-Bold";
+  font-size: 25px;
+  color: #023047;
+
+  
+}
+
+.barre{
+  height: 50px;
+  background-color: #023047;
+  width: 2px;
+}
+.logofil{
+  margin-top: 6px;
+  height: 37px;
+  width: 37px;
+}
+
+
+@media screen and (max-width: 600px) {
+
+  .icon{
+      display: block;
+  }
+
+
+  .topnav a {
+      display: none;
+  }
+
+  .topnav.responsive {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 150px;
+      border: 2px solid #023047 ;
+      padding: 8px;
+      margin: 24px;
+  }
+
+  .topnav.responsive a {
+      display: flex;
+      font-size: 15px;
+      text-decoration: underline #FB8500;
+  }
+  .logofil{
+    display: none;
+  }
+  .barre{
+    display: none;
+  }
+
+}
