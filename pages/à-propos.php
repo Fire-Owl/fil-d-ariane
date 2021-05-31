@@ -2,19 +2,20 @@
 <html lang="en">
 
 <head>
+    <?php include '../includes/header.php'; ?>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="../assets/styles/main.css">
+    <link rel="stylesheet" href="../assets/styles/a-propos.css">
 </head>
 
 <body>
     <!-- ouvre container -->
     <div class="container">
         <h1 class="element__titre1">À propos</h1>
-        <!-- ouvre container projet-et-image -->
-        <div class="container__projet-et-image">
+        <!-- ouvre container projet_et_image -->
+        <div class="container__projet_et_image">
             <!-- ouvre container__projet -->
             <div class="container__projet">
                 <h1 class="element__titre2">Le projet</h1>
@@ -29,8 +30,8 @@
                 </p>
             </div> <!-- ferme container projet -->
 
-            <img src="../assets/images/à-propos.svg" alt="à-propos.svg" id="img_a-propos">
-        </div> <!-- ferme container__projet-et-image -->
+            <img src="../assets/images/à-propos.svg" alt="à-propos.svg" id="img_a_propos">
+        </div> <!-- ferme container__projet_et_image -->
     </div> <!-- ferme container -->
 
     <div>
