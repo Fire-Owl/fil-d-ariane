@@ -158,7 +158,7 @@
     margin-top: 32px;
   }
   
-  /*LANDING PAGE*/
+  /*DEBUT LANDING PAGE*/
   #engines {
     width: 500px;
     position: absolute;
@@ -204,6 +204,8 @@
     -webkit-box-shadow: 1px 7px #FB8500;
             box-shadow: 1px 7px #FB8500;
   }
+  
+  /*FIN LANDING AGE*/
   
   /* MEDIA QUERIES POUR LANDING PAGE*/
   /*# sourceMappingURL=style.css.map */
