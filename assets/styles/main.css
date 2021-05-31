@@ -126,7 +126,7 @@ a {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
 }
@@ -219,7 +219,6 @@ p {
 @media screen and (max-width: 768px) {
   .container__projet-et-image {
     display: flex;
-<<<<<<< HEAD
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
@@ -246,11 +245,6 @@ p {
     width: 500px;
     position: absolute;
     top: 45px;
-=======
-    flex-direction: column-reverse;
-    align-items: center;
-    margin-left: 15rem;
->>>>>>> main
   }
   .element__titre1 {
     display: none;
@@ -274,13 +268,6 @@ p {
     font-size: 40px;
     margin-right: 25rem;
   }
-<<<<<<< HEAD
-  
-  /*FIN LANDING AGE*/
-  
-  /* MEDIA QUERIES POUR LANDING PAGE*/
-  /*# sourceMappingURL=style.css.map */
-=======
 }
 
 /*fin A propos*/
@@ -288,12 +275,11 @@ p {
 /*LANDING PAGE*/
 #engines {
   width: 500px;
-  position: absolute;
-  top: 45px;
+  
 }
 
 .container_images-informations {
-  margin-left: 800px;
+  margin-left: 900px;
 }
 
 .container__informations {
@@ -325,6 +311,7 @@ p {
   padding-right: 60px;
   padding-top: 10px;
   padding-bottom: 15px;
+  margin-top: 50px;
 }
 
 .bouton:hover {
@@ -332,6 +319,13 @@ p {
   box-shadow: 1px 7px #fb8500;
 }
 
+#online{
+  width:500px;
+}
+
+.container_images-preconisations{
+  padding-left: 50px;
+}
+
 /* MEDIA QUERIES POUR LANDING PAGE*/
 /*# sourceMappingURL=style.css.map */
->>>>>>> main

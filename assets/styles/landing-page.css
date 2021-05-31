@@ -1,0 +1,70 @@
+ /*DEBUT LANDING PAGE*/
+ body {
+    background-color: #f5f5f5;
+  }
+  
+
+
+ #engines {
+    width: 500px;
+    position: absolute;
+    bottom: 0;
+    margin-top: 20px;
+  }
+
+  .container_images-informations {
+    margin-left: 900px;
+  }
+  
+  .container__informations {
+    margin-top: 100px;
+    margin-left: 150px;
+  }
+  
+  .fil {
+    color: #023047;
+    font-family: "Luciole-Bold";
+  }
+  
+  .access {
+    color: #fb8500;
+    font-family: "Luciole-Bold";
+  }
+  
+  p {
+    font-size: 24px;
+  }
+  
+  .bouton {
+    color: #fff;
+    background-color: #023047;
+    font-size: 24px;
+    font-family: "Luciole-Bold";
+    margin-left: 120px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    margin-top: 50px;
+  }
+  
+  .bouton:hover {
+    -webkit-box-shadow: 1px 7px #fb8500;
+    box-shadow: 1px 7px #fb8500;
+  }
+  
+  #online{
+    width:500px;
+  }
+  
+  .container_images-preconisations{
+    padding-top: 30px;
+    padding-left: 40px;
+  }
+  
+  .container_preconisations{
+      padding-left: 1000px;
+  }
+  /* MEDIA QUERIES POUR LANDING PAGE*/
+  /*# sourceMappingURL=style.css.map */
+  
