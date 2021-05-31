@@ -90,6 +90,7 @@ a{
   .barre{
     display: none;
   }
+}
 /*fin header*/
 /*footer*/
 
@@ -125,5 +126,4 @@ a{
 .logo{
     padding-left: 15px;
     margin-top: 32px;
-}
 }
