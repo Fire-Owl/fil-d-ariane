@@ -33,7 +33,6 @@ body {
 
 #img_a-propos {
   width: 500px;
-  margin-right: ;
 }
 
 .element__titre1 {
@@ -47,8 +46,8 @@ body {
   font-family: "Luciole-Bold";
 }
 
-.element__titre3 {
-}
+/* .element__titre3 {
+} */
 
 p {
   font-family: "Luciole-Regular";
