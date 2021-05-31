@@ -1,142 +1,225 @@
+
 @font-face {
-    font-family: "Luciole-Bold";
-    src: url(../font/Luciole-Bold.ttf);
-  }
-  
-  @font-face {
-    font-family: "Luciole-Regular";
-    src: url(../font/Luciole-Regular.ttf);
-  }
-  
-  * {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-family: sans-serif;
-    font-size: 1rem;
-    font-weight: normal;
-    font-style: normal;
-    text-decoration: none;
-  }
-  
-  * {
-    border: red solid 0px;
-  }
-  
-  /*header*/
-  .containerlogo {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-  }
-  
-  .logopage {
-    height: 10rem;
-    width: 10rem;
-  }
-  
+  font-family: "Luciole-Bold";
+  src: url(../font/Luciole-Bold.ttf);
+}
+@font-face {
+  font-family: "Luciole-Regular";
+  src: url(../font/Luciole-Regular.ttf);
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+* {
+  border: red solid 0px;
+}
+
+/*header*/
+.containerlogo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.logopage {
+  height: 10rem;
+  width: 10rem;
+}
+
+.icon {
+  display: none;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+.topnav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+}
+
+a {
+  font-family: "Luciole-Bold";
+  font-size: 25px;
+  color: #023047;
+}
+
+.barre {
+  height: 50px;
+  background-color: #023047;
+  width: 2px;
+}
+
+.logofil {
+  margin-top: 6px;
+  height: 37px;
+  width: 37px;
+}
+
+@media screen and (max-width: 600px) {
   .icon {
+    display: block;
+  }
+  .topnav a {
     display: none;
   }
-  
-  body {
-    background-color: #f5f5f5;
-  }
-  
-  /*FOOTER*/
-  .topnav {
+  .topnav.responsive {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -ms-flex-pack: distribute;
-        justify-content: space-around;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 150px;
+    border: 2px solid #023047;
+    padding: 8px;
+    margin: 24px;
   }
-  
-  a {
-    font-family: "Luciole-Bold";
-    font-size: 25px;
-    color: #023047;
+  .topnav.responsive a {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 15px;
+    -webkit-text-decoration: underline #fb8500;
+    text-decoration: underline #fb8500;
   }
-  
-  .barre {
-    height: 50px;
-    background-color: #023047;
-    width: 2px;
-  }
-  
   .logofil {
-    margin-top: 6px;
-    height: 37px;
-    width: 37px;
+    display: none;
   }
-  
-  @media screen and (max-width: 600px) {
-    .icon {
-      display: block;
-    }
-    .topnav a {
-      display: none;
-    }
-    .topnav.responsive {
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      -webkit-box-align: center;
-          -ms-flex-align: center;
-              align-items: center;
-      width: 150px;
-      border: 2px solid #023047;
-      padding: 8px;
-      margin: 24px;
-    }
-    .topnav.responsive a {
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      font-size: 15px;
-      -webkit-text-decoration: underline #FB8500;
-              text-decoration: underline #FB8500;
-    }
-    .logofil {
-      display: none;
-    }
-    .barre {
-      display: none;
-    }
+  .barre {
+    display: none;
   }
-  
-  /*fin header*/
-  /*footer*/
-  #element-footer {
-    background-color: #023047;
-    display: -webkit-box;
-    display: -ms-flexbox;
+}
+/*fin header*/
+
+/*footer*/
+#element-footer {
+  background-color: #023047;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+/* LIENS DU FOOTER*/
+.link1 {
+  color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  font-family: "Luciole-Bold";
+  font-size: 16px;
+  line-height: 2em;
+}
+
+.link2 {
+  color: #fff;
+  font-family: "Luciole-Bold";
+  font-size: 16px;
+  line-height: 6em;
+}
+
+/* LOGO*/
+.logo {
+  padding-left: 15px;
+  margin-top: 32px;
+}
+/*fin footer*/
+
+/* A propos*/
+.element__titre2 {
+  border: solid red 1px;
+}
+body {
+  background-color: #f5f5f5;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.container__projet-et-image {
+  display: flex;
+  justify-content: center;
+}
+
+.container__projet p {
+  width: 500px;
+  font-size: 24px;
+  margin-right: 15rem;
+  margin-left: 200px;
+}
+
+#img_a-propos {
+  width: 500px;
+}
+
+.element__titre1 {
+  color: #fb8500;
+  margin-left: 200px;
+  font-family: "Luciole-Bold";
+  font-size: 50px;
+}
+.element__titre2 {
+  color: #023047;
+  font-family: "Luciole-Bold";
+}
+
+/* .element__titre3 {
+} */
+
+p {
+  font-family: "Luciole-Regular";
+}
+.img_a-propos {
+  height: auto;
+  display: flex;
+}
+
+.element__titre3 {
+  color: #023047;
+  margin-left: 200px;
+  font-family: "Luciole-Bold";
+}
+
+/* mobile screen */
+@media screen and (max-width: 768px) {
+  .container__projet-et-image {
     display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-  }
-  
-  /* LIENS DU FOOTER*/
-  .link1 {
-    color: #fff;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
+<<<<<<< HEAD
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
@@ -163,49 +246,92 @@
     width: 500px;
     position: absolute;
     top: 45px;
+=======
+    flex-direction: column-reverse;
+    align-items: center;
+    margin-left: 15rem;
+>>>>>>> main
   }
-  
-  .container_images-informations {
-    margin-left: 800px;
+  .element__titre1 {
+    display: none;
   }
-  
-  .container__informations {
-    margin-top: 100px;
-    margin-left: 150px;
+  .element__titre2 {
+    color: #fb8500;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 10px;
   }
-  
-  .fil {
-    color: #023047;
-    font-family: "Luciole-Bold";
+  #img_a-propos {
+    max-width: 400px;
   }
-  
-  .access {
-    color: #FB8500;
-    font-family: "Luciole-Bold";
+  .container__projet p {
+    max-width: 400px;
+
+    font-size: 30px;
   }
-  
-  p {
-    font-size: 24px;
+
+  .element__titre3 {
+    font-size: 40px;
+    margin-right: 25rem;
   }
-  
-  .bouton {
-    color: #fff;
-    background-color: #023047;
-    font-size: 24px;
-    font-family: "Luciole-Bold";
-    margin-left: 120px;
-    padding-left: 60px;
-    padding-right: 60px;
-    padding-top: 10px;
-    padding-bottom: 15px;
-  }
-  
-  .bouton:hover {
-    -webkit-box-shadow: 1px 7px #FB8500;
-            box-shadow: 1px 7px #FB8500;
-  }
+<<<<<<< HEAD
   
   /*FIN LANDING AGE*/
   
   /* MEDIA QUERIES POUR LANDING PAGE*/
   /*# sourceMappingURL=style.css.map */
+=======
+}
+
+/*fin A propos*/
+
+/*LANDING PAGE*/
+#engines {
+  width: 500px;
+  position: absolute;
+  top: 45px;
+}
+
+.container_images-informations {
+  margin-left: 800px;
+}
+
+.container__informations {
+  margin-top: 100px;
+  margin-left: 150px;
+}
+
+.fil {
+  color: #023047;
+  font-family: "Luciole-Bold";
+}
+
+.access {
+  color: #fb8500;
+  font-family: "Luciole-Bold";
+}
+
+p {
+  font-size: 24px;
+}
+
+.bouton {
+  color: #fff;
+  background-color: #023047;
+  font-size: 24px;
+  font-family: "Luciole-Bold";
+  margin-left: 120px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+.bouton:hover {
+  -webkit-box-shadow: 1px 7px #fb8500;
+  box-shadow: 1px 7px #fb8500;
+}
+
+/* MEDIA QUERIES POUR LANDING PAGE*/
+/*# sourceMappingURL=style.css.map */
+>>>>>>> main
