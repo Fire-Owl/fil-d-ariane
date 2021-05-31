@@ -1,90 +1,194 @@
 @font-face {
     font-family: "Luciole-Bold";
     src: url(../font/Luciole-Bold.ttf);
-}
-@font-face {
-    font-family: "Luciole-regular";
-    src: url(Luciole-Regular.ttf);
-}
-
-
-
-body{
-    background-color: #f5f5f5;
-}
-
-/*FOOTER*/
-
-
-#element-footer{
-    background-color:#023047;
+  }
+  
+  @font-face {
+    font-family: "Luciole-Regular";
+    src: url(../font/Luciole-Regular.ttf);
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+  }
+  
+  * {
+    border: red solid 0px;
+  }
+  
+  /*header*/
+  .containerlogo {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: center;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  
+  .logopage {
+    height: 10rem;
+    width: 10rem;
+  }
+  
+  .icon {
+    display: none;
+  }
+  
+  body {
+    background-color: #f5f5f5;
+  }
+  
+  /*FOOTER*/
+  .topnav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+  }
+  
+  a {
+    font-family: "Luciole-Bold";
+    font-size: 25px;
+    color: #023047;
+  }
+  
+  .barre {
+    height: 50px;
+    background-color: #023047;
+    width: 2px;
+  }
+  
+  .logofil {
+    margin-top: 6px;
+    height: 37px;
+    width: 37px;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .icon {
+      display: block;
+    }
+    .topnav a {
+      display: none;
+    }
+    .topnav.responsive {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      width: 150px;
+      border: 2px solid #023047;
+      padding: 8px;
+      margin: 24px;
+    }
+    .topnav.responsive a {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      font-size: 15px;
+      -webkit-text-decoration: underline #FB8500;
+              text-decoration: underline #FB8500;
+    }
+    .logofil {
+      display: none;
+    }
+    .barre {
+      display: none;
+    }
+  }
+  
+  /*fin header*/
+  /*footer*/
+  #element-footer {
+    background-color: #023047;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     position: absolute;
     bottom: 0;
     width: 100%;
-}
-/* LIENS DU FOOTER*/
-
-.link1{
+  }
+  
+  /* LIENS DU FOOTER*/
+  .link1 {
     color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     font-family: "Luciole-Bold";
     font-size: 16px;
     line-height: 2em;
-}
-
-
-.link2{
-    color:#fff;
+  }
+  
+  .link2 {
+    color: #fff;
     font-family: "Luciole-Bold";
     font-size: 16px;
     line-height: 6em;
-}
-
-/* LOGO*/
-
-.logo{
+  }
+  
+  /* LOGO*/
+  .logo {
     padding-left: 15px;
     margin-top: 32px;
-}
-
-
-/*LANDING PAGE*/
-
-#engines{
+  }
+  
+  /*LANDING PAGE*/
+  #engines {
     width: 500px;
     position: absolute;
     top: 45px;
-}
-
-
-.container_images-informations{
+  }
+  
+  .container_images-informations {
     margin-left: 800px;
-}
-
-
-.container__informations{
+  }
+  
+  .container__informations {
     margin-top: 100px;
     margin-left: 150px;
-}
-
-.fil{
+  }
+  
+  .fil {
     color: #023047;
     font-family: "Luciole-Bold";
-}
-
-.access{
-    color:#FB8500;
+  }
+  
+  .access {
+    color: #FB8500;
     font-family: "Luciole-Bold";
-}
-
-p{
+  }
+  
+  p {
     font-size: 24px;
-}
-
-.bouton{
+  }
+  
+  .bouton {
     color: #fff;
     background-color: #023047;
     font-size: 24px;
@@ -94,16 +198,12 @@ p{
     padding-right: 60px;
     padding-top: 10px;
     padding-bottom: 15px;
-}
-
-.bouton:hover{
-    box-shadow: 1px 7px #FB8500;
-}
-
-
-/* MEDIA QUERIES POUR LANDING PAGE*/
-
-
-    
-
-
+  }
+  
+  .bouton:hover {
+    -webkit-box-shadow: 1px 7px #FB8500;
+            box-shadow: 1px 7px #FB8500;
+  }
+  
+  /* MEDIA QUERIES POUR LANDING PAGE*/
+  /*# sourceMappingURL=style.css.map */
