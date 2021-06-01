@@ -7,9 +7,8 @@
 
  #engines {
     width: 500px;
-    position: absolute;
-    bottom: 0;
-    margin-top: 20px;
+    position: relative;
+    bottom: 450px;
   }
 
   .container_images-informations {
@@ -24,11 +23,14 @@
   .fil {
     color: #023047;
     font-family: "Luciole-Bold";
+    font-size: 24px;
   }
   
   .access {
     color: #fb8500;
     font-family: "Luciole-Bold";
+    font-size: 24px;
+
   }
   
   p {
@@ -56,15 +58,40 @@
   #online{
     width:500px;
   }
-  
-  .container_images-preconisations{
-    padding-top: 30px;
-    padding-left: 40px;
+
+  .image-preconisations{
+    display: flex;
+    margin-left: 100px;
   }
   
-  .container_preconisations{
-      padding-left: 1000px;
+  .texte-preconisations{
+    padding-left: 1000px;
+    position: relative;
+    top: -900px;
+    left: -150px;
   }
+
+  .Internet{
+    color: #fb8500;
+    font-family: "Luciole-Bold";
+    
+  }
+
+  .illectronisme{
+    color: #fb8500;
+    font-family: "Luciole-Bold";
+    font-size: 24px;
+  }
+
+  .container__lexique{
+    margin-left: 150px;
+    position: relative;
+    bottom: 725px;
+  }
+
+  .container_images-informations{
+    position: relative;
+    bottom: 900px;
   /* MEDIA QUERIES POUR LANDING PAGE*/
   /*# sourceMappingURL=style.css.map */
   
