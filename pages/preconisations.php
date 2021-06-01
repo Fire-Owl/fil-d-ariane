@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <?php include '../includes/header.php'; ?>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,7 +9,7 @@
     <title>Préconisations</title>
 </head>
 <body>
-
+<div class="mainWrap">
 <div class="wrapper1">
 
 
@@ -45,6 +46,9 @@ Vous trouverez des conseils et des<br> préconisations sur l’accessibilité nu
 <button>LIRE L'ARTICLE</button>
 </div>
 <div></div>
+</div>
+
+
 </div>
 
 
