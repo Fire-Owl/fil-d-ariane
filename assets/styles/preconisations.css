@@ -1,0 +1,156 @@
+body{
+    background-color: #F5F5F5;
+}
+
+
+@font-face {
+    font-family: "Luciole-Bold";
+    src: url(../font/Luciole-Bold.ttf);
+  }
+  @font-face {
+    font-family: "Luciole-Regular";
+    src: url(../font/Luciole-Regular.ttf);
+  }
+
+
+.wrapper1{
+    display: grid;
+    grid-template-columns: 1fr 3fr 0fr 3fr 1fr;
+    margin-left: 1vw;
+    margin-top: 2vw;
+}
+
+.firstbloc{
+    font-size: 50px;
+    color: #fb8500;
+    font-family: 'Luciole-Bold';
+    margin-left: 2vw;
+
+}
+
+.firstbloc p{
+    font-size: 22px;
+    font-family:'Luciole-Regular';
+    color: #222222;
+    line-height: 2vw;
+}
+
+#container_firstimg{
+    margin-top: 1vw;
+    
+}
+
+#firstimg{
+    width: 450px;
+    margin-top: 2vw;
+}
+
+.wrapper2{
+    display: grid;
+    grid-template-columns: 1fr 350px 200px 350px 1fr;
+    margin-top: 5vw;
+    margin-right: 4vw;
+}
+
+.card1{
+background-color: white;
+box-shadow: 2px 2px 2px 2px #222222;
+border-radius: 10px;
+height: 34vw;
+margin-bottom: 200px;
+}
+
+.card1 h2{
+font-family: 'Luciole-Bold';
+color: #fb8500;
+text-align: center;
+font-size: 25px;
+padding-bottom: 2vw;
+
+}
+
+.card2{
+background-color: white;
+box-shadow: 2px 2px 2px 2px #222222;
+border-radius: 10px;
+height: 34vw;
+margin-bottom: 200px;    
+}
+
+.card2 h2{
+font-family: 'Luciole-Bold';
+color: #fb8500;
+text-align: center;
+font-size: 25px;
+padding-bottom: 2vw;
+
+}
+
+.card1 img{
+width: 280px;
+margin-left: 35px;
+margin-top: 20px;
+
+}
+
+.card2 img{
+width: 230px;
+margin-left: 60px;
+    
+}
+
+
+.card1 button{
+background-color: #023047;
+font-family: 'Luciole-Bold';
+border-radius: 5px;
+color: white;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-left: 60px;
+margin-top: 22%;
+font-size: 20px;
+
+}
+
+.card2 button{
+background-color: #023047;
+font-family: 'Luciole-Bold';
+border-radius: 5px;
+color: white;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-left: 60px; 
+margin-top: 2vw;
+font-size: 20px;
+   
+}
+
+.card1 button:hover{
+box-shadow: #fb8500 2px 2px 2px 2px;
+}
+
+.card2 button:hover{
+box-shadow: #fb8500 2px 2px 2px 2px;    
+}
+
+
+
+
+
+
+
+
+
+/* *{
+    border: 1px solid red;
+} */
+
+
+
+
+/*# sourceMappingURL=preconisations.css.map *//*# sourceMappingURL=preconisations.css.map */
