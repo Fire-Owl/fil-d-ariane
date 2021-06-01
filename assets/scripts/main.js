@@ -14,5 +14,5 @@ function scrollIndicator() {
         var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
         var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
         var scrolled = (winScroll / height) * 100;
-        document.getElementById("img").style.strokeDashoffset = (3100)-scrolled + "rem";
+        document.getElementById("img").style.strokeDashoffset = (1990)-scrolled + "rem";
       };

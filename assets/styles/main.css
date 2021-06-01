@@ -126,7 +126,7 @@ a {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
 }

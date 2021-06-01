@@ -52,6 +52,6 @@ Vous trouverez des conseils et des<br> préconisations sur l’accessibilité nu
 </div>
 
 
-    
+<?php include '../includes/footer.php'; ?>
 </body>
 </html>
