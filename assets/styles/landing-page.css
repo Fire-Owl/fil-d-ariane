@@ -89,9 +89,21 @@
     bottom: 725px;
   }
 
-  .container_images-informations{
-    position: relative;
-    bottom: 900px;
+ .container_images-lexique{
+  padding-left: 1000px;
+ margin-bottom: 100px;
+ }
+
+ #world{
+  width: 500px;
+  position: relative;
+  bottom: 450px;
+ }
+
+ #mention{
+  width: 500px;
+  position: relative;
+  bottom: 1200px;
+ }
   /* MEDIA QUERIES POUR LANDING PAGE*/
   /*# sourceMappingURL=style.css.map */
-  
