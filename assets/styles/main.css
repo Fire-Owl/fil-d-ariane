@@ -298,3 +298,17 @@ p {
 
 /* MEDIA QUERIES POUR LANDING PAGE*/
 /*# sourceMappingURL=style.css.map */
+
+/* css pour fil d'ariane */
+
+path{
+  stroke-dasharray: 1100px;
+
+}
+
+#img{
+    position: absolute;
+    right: 0;
+    margin-right: 30px;
+    margin-top: -20px;
+}
