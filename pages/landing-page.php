@@ -12,6 +12,8 @@
 
 <body>
 
+<!-- CAT INFORMATIONS -->
+
 <div class="container">
     <div class="container__informations">
         <p class="bonjour">Bonjour chers voyageurs du web, bienvenue au bout du <span class="fil">« Fil <br> d’Ariane ».<br></span></p>
@@ -25,6 +27,7 @@
     </div> <!-- ferme container__images-informations-->
 </div> <!-- ferme container -->
 
+<!-- CAT PRECONISATIONS-->
 
 <div class="image-preconisations">
         <img src="../assets/images/Online world-rafiki.svg" alt="Online world-rafiki.svg" id="world">
@@ -37,9 +40,7 @@
 
 </div>
 
-
-
-
+<!-- CAT LEXIQUE-->
 
 <div class="container">
     <div class="container__lexique">
@@ -59,6 +60,7 @@
 </div> <!-- ferme container -->
 
 </body>
+
 
 <?php include '../includes/footer.php'; ?>
 

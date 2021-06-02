@@ -1,9 +1,12 @@
+/*1ère section*/
+
+
  /*DEBUT LANDING PAGE*/
  body {
     background-color: #f5f5f5;
   }
   
-
+/* CAT INFORMATIONS*/
 
  #engines {
     width: 500px;
@@ -11,14 +14,6 @@
     bottom: 450px;
   }
 
-  .container_images-informations {
-    margin-left: 900px;
-  }
-  
-  .container__informations {
-    margin-top: 100px;
-    margin-left: 150px;
-  }
   
   .fil {
     color: #023047;
@@ -59,6 +54,9 @@
     width:500px;
   }
 
+
+/*CAT PRECONISATIONS*/
+
   .image-preconisations{
     display: flex;
     margin-left: 100px;
@@ -77,6 +75,8 @@
     
   }
 
+  /*CAT LEXIQUE*/
+  
   .illectronisme{
     color: #fb8500;
     font-family: "Luciole-Bold";
@@ -107,3 +107,4 @@
  }
   /* MEDIA QUERIES POUR LANDING PAGE*/
   /*# sourceMappingURL=style.css.map */
+
