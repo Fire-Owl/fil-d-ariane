@@ -137,9 +137,9 @@
 }
 
 #bloc6_img{
-    width: 300px;
+    width: 400px;
     margin-left: 7rem;
-    margin-top: 2rem;
+    margin-top: 6rem;
 }
 
 .bloc6_p{
@@ -183,6 +183,11 @@
     font-family: 'Luciole-Regular';
 }
 
+.lastWrap3_img{
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+
 .lastWrap4{
     display: grid;
     grid-template-columns: 1fr 3fr 0fr 3fr 1fr;
@@ -205,12 +210,17 @@
     margin-left: 7rem;
 }
 
+#but:hover{
+    box-shadow: #fb8500 2px 2px 2px 2px;
+}
+
 #autor{
     margin-left: 5rem;
 }
 
 
 .endPage{
+
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     font-size: 24px;
@@ -236,52 +246,22 @@
 
 
 @media screen and (max-width:700px){
-    .mainWrap{
-        grid-template-columns: repeat(1, 4fr);
+    .mainWrap,  .mainWrap2, .mainWrap3, .mainWrap4, .mainWrap5, .mainWrap6, .lastWrap, .lastWrap2, .lastWrap3, .lastWrap4, .endPage{
+        grid-template-columns: repeat(1, 5fr);
+        margin: auto;
+        padding: 2rem;
 
     }
-    .mainWrap2{
-        grid-template-columns: repeat(1, 4fr);
+    #fourthblocimg, #secblocimg{
+        display: none;
+    }
 
-    }
-    .mainWrap3{
-        grid-template-columns: repeat(1, 4fr);
-
-    }
-    .mainWrap4{
-        grid-template-columns: repeat(1, 4fr);
-
-        margin-left: 25px;
-    }
-    #mainWrap4_title{
-        font-size: 24px;
-        margin-left: -30px;
-    }
-    .fourthbloc{
-        grid-template-columns: repeat(1, 4fr);
-
-    }
-    .mainWrap5{
-        grid-template-columns: repeat(1, 4fr);
-
-    }
-    .mainWrap6{
-        grid-template-columns: repeat(1, 4fr);
-
-    }
 
 }
 
-@media screen and (max-width:700px){
-    .firstbloc p{
-        padding: 20px;
 
-    }
-    body{
-        overflow-x: hidden;
-    }
-    
-}
+
+
 
 
 
