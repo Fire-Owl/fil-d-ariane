@@ -96,9 +96,7 @@
 
     <div class="contenaire">
         <img src="../assets/images/avatar-ariane-gael 1.svg" alt="">
-        <div class =contenaire_nom>
-            <p>Gael <span id="orange">Sudour-Jeannin</span></p>
-        </div>
+            <span id="Gael">Gael<span id="orange">Sudour-Jeannin</span></span>
     </div>
     <p>Stagiaire ACS Dijon</p>
 </div>
