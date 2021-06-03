@@ -2,15 +2,32 @@
 
 
  /*DEBUT LANDING PAGE*/
+
  body {
     background-color: #f5f5f5;
   }
   
 /* CAT INFORMATIONS*/
 
+.container{
+    max-width: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container-informations{
+    margin-left: 50px;
+    margin-top: 50PX;
+}
+
+.container-images-informations{
+  margin-left: 50px;
+}
+
+
  #engines {
     width: 500px;
-    position: relative;
     bottom: 450px;
   }
 
@@ -29,7 +46,7 @@
   }
   
   p {
-    font-size: 24px;
+    font-size: 20px;
   }
   
   .bouton {
@@ -57,16 +74,19 @@
 
 /*CAT PRECONISATIONS*/
 
-  .image-preconisations{
-    display: flex;
-    margin-left: 100px;
-  }
+.container2{
+  max-width: 70%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
   
   .texte-preconisations{
-    padding-left: 1000px;
-    position: relative;
-    top: -900px;
-    left: -150px;
+    padding-left: 100px;
+    margin-top: 5rem;
+    
   }
 
   .Internet{
@@ -76,35 +96,41 @@
   }
 
   /*CAT LEXIQUE*/
+
+.container3{
+  display: flex;
+  align-items: flex-start;
+}
   
+.texte-lexique{
+  margin-left: 50px;
+  margin-top: 7rem
+
+}
+ 
   .illectronisme{
     color: #fb8500;
     font-family: "Luciole-Bold";
     font-size: 24px;
   }
 
-  .container__lexique{
-    margin-left: 150px;
-    position: relative;
-    bottom: 725px;
+  .container-images-lexique{
+    padding-left: 0;
   }
-
- .container_images-lexique{
-  padding-left: 1000px;
- margin-bottom: 100px;
- }
+ 
+  .container-lexique{
+    padding-bottom: 5rem;
+  }
 
  #world{
   width: 500px;
-  position: relative;
   bottom: 450px;
  }
 
  #mention{
   width: 500px;
-  position: relative;
-  bottom: 1200px;
  }
+ 
   /* MEDIA QUERIES POUR LANDING PAGE*/
   /*# sourceMappingURL=style.css.map */
 

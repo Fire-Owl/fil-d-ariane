@@ -8,9 +8,10 @@
     <meta name="author" content="Conception: Williams, Chloé, Paul, Gael/Intégration:Jean-batipste, Karina, Etienne, Nathan">  
     <link rel="shortcut icon" href="../assets/images/logo.svg" type="image/svg+xml">
     <link rel="stylesheet" href="../assets/styles/main.css">
+    <link rel="stylesheet" href="../assets/styles/landing-page.css">
     <title>Fil d'Ariane</title>
 </head>
-<body>
+<body> 
 <main class="containerlogo">
     <div class="logo">
         <img src="../assets/images/logo-filariane.svg" class="logopage" alt="logo fil-d-ariane"> 
