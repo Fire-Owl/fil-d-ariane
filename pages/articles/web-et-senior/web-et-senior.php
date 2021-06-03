@@ -13,7 +13,7 @@
 <div></div>
 <div class="firstbloc">
     <h1>Le web et les seniors</h1>
-    <p>De nos jours, l’utilisation d’internet c’est généralisé et multiplier au quotidien. Pour les personnes qui ont grandi avec ou ceux qui en on vu l’émergence, son utilisation est presque naturelle. Nous pouvons regardez les informations du bout du monde, commander nos courses, communiquer avec nos proches tout ça sans même que nous ayons besoin de réfléchir à comment le faire, c’est devenu instinctif chez la majorité d’entre nous. </p>
+    <p>De nos jours, l’utilisation d’internet c’est généralisé et multiplier au quotidien. Pour les personnes qui ont grandi avec ou ceux qui en on vu l’émergence, son utilisation est presque naturelle. Nous pouvons regardez les informations du bout du monde, commander nos courses, communiquer avec nos proches tout ça sans même que nous ayons besoin de réfléchir à comment le faire, c’est devenu instinctif chez la majorité d’entre nous.</p>
 </div>
 <div></div>
 <div><img id="firstblocimg" src="../../../assets/images/web-et-senior_img1.svg" alt=""></div>
@@ -84,6 +84,71 @@
     <div class="bloc6_p"><p>De plus, Internet peut être une source de plaisir et de divertissement, il leur permet d’avoir un accès plus large à l’information et de manière non négligeable, Internet permet aussi de lutter contre l’ennui. A cela s’ajoute aussi, le fait de pouvoir gagner du temps dans certaines démarches administrative.<br><br>
     L’utilisation du numérique est un avantage indéniable, mais tout ça dépend de leur niveau de maitrise ainsi que leur confiance dans leur pratique du web. Pour pouvoir inciter plus de séniors à utiliser Internet, il est essentiel de s’intéresser et de comprendre pourquoi certains rencontrent des problèmes et quels sont ces freins.
 </p></div>
+    <div></div>
+
+
+</div>
+
+
+<div class="lastWrap">
+
+    <div></div>
+    <div>
+    <h2>Les freins à l'utilisation d'internet</h2>
+    <p>Parmi les séniors, plus de la moitié des 75 ans et plus, disent éprouver des difficultés avec Internet et leurs équipement numérique. Ces écueils sont dû à plusieurs raisons, La première est que la majorité d’entre eux ne ressentent pas le besoin et ni l’intérêt de son utilisation.<br><br> 
+    L’un des autres freins majeurs, vient de la sention d’être perdu, que l’utilisation d’Internet est trop compliquée pour eux et donc n’ose pas s’en servir par peur de malfaire. De plus, l’afflux d’information leur faire dire que l’expérience utilisateurs est peu ergonomique et contre intuitive.<br><br>
+    A ce manque de connaissances et de confiance, vient s’ajouter un autre frein, celui de la sécurité.
+    Pour beaucoup de personnes qui ne possèdent pas de connaissances digitales la peur du vol de données et les potentiels risque de sécurité pour leurs matériels, les empêches de profiter pleinement de l’outil. 
+    </p>
+    </div>
+    <div></div>
+
+</div>
+<div class="lastWrap2">
+
+    <div></div>
+        <div class="lastWrap2_img"><img src="../../../assets/images/last2-img.svg" alt=""></div>
+        <div class="lastWrap2_p">L’un des autres freins que les séniors peuvent rencontrer vient simplement de l’âge. En effet, les années passant, la vue peut baisser, la concentration diminue, ce qui influe indéniablement sur leur qualité de vie et donc leur habilité à utiliser les outils numériques. 
+        S’ajoute aussi, un problème plus global, la couverture réseau. Certes, au fil des années les opérateurs couvrent de plus en plus du territoire mais il reste encore des zones rurales ou la connexion est soit inexistante soit trop faible. 
+        </div>
+    <div></div>
+
+
+</div>
+
+
+
+
+
+<div class="lastWrap3">
+
+    <div></div>
+        <div class="lastWrap3_p">Dans une société de plus en plus connectée et numérique, Il devient plus qu’important et nécessaire de sensibiliser et de former les futures générations à ce sujet.<br><br>
+        Voilà pourquoi, vous trouverez en cliquant sur le bouton si dessous, une liste de mesures qui peuvent être mise en place très facilement par les développeurs de site web et d’application, pour rendre leurs produits plus accessibles pour nos ainés. <br><br>
+        Par-delà les créateurs de contenu numérique, ce sont toutes les personnes qui maitrisent aisément Internet, qui peuvent s’inscrire dans des associations ou bien devenir bénévole pour transmettre leurs connaissances à ceux qui en ont le plus besoin.  
+</div>
+        <div class="lastWrap3_img"><img src="../../../assets/images/last-img.svg" alt=""></div>
+    <div></div>
+
+
+</div>
+
+<div class="lastWrap4">
+
+<div></div>
+<div><button  id="but">S'adresser aux seniors en tant <br>que developpeur</button></div>
+
+<div></div>
+<div id="autor"><img src="../../../assets/images/autor.svg" alt=""></div>
+
+</div>
+
+
+<div class="endPage">
+
+    <div></div>
+    <div><h2>C’est en travaillant dès maintenant que les fractures et les exclusions numériques pourront disparaitre. 
+    </h2></div>
     <div></div>
 
 
