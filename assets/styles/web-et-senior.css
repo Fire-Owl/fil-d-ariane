@@ -15,7 +15,9 @@
   }
 
 
-
+.orangeP{
+    color: #fb8500;
+}
 
 
 
@@ -248,12 +250,17 @@
 @media screen and (max-width:700px){
     .mainWrap,  .mainWrap2, .mainWrap3, .mainWrap4, .mainWrap5, .mainWrap6, .lastWrap, .lastWrap2, .lastWrap3, .lastWrap4, .endPage{
         grid-template-columns: repeat(1, 5fr);
-        margin: auto;
         padding: 2rem;
 
     }
-    #fourthblocimg, #secblocimg{
+    #fourthblocimg, #secblocimg, #bloc5img{
         display: none;
+    }
+    #autor{
+        margin-top: 4rem;
+    }
+    p, .lastWrap2_p, .lastWrap3_p{
+        font-size: 20px;
     }
 
 
