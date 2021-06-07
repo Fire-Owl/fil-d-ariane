@@ -239,93 +239,10 @@ p {
     padding-left: 15px;
     margin-top: 32px;
   }
-  
-  /*DEBUT LANDING PAGE*/
-  #engines {
-    width: 500px;
-    position: absolute;
-    top: 45px;
-  }
-  .element__titre1 {
-    display: none;
-  }
-  .element__titre2 {
-    color: #fb8500;
-    text-align: center;
-    font-size: 40px;
-    margin-left: 10px;
-  }
-  #img_a-propos {
-    max-width: 400px;
-  }
-  .container__projet p {
-    max-width: 400px;
-
-    font-size: 30px;
-  }
-
-  .element__titre3 {
-    font-size: 40px;
-    margin-right: 25rem;
-  }
-}
-
+ 
 /*fin A propos*/
 
-/*LANDING PAGE*/
-#engines {
-  width: 500px;
-  
-}
-
-.container_images-informations {
-  margin-left: 900px;
-}
-
-.container__informations {
-  margin-top: 100px;
-  margin-left: 150px;
-}
-
-.fil {
-  color: #023047;
-  font-family: "Luciole-Bold";
-}
-
-.access {
-  color: #fb8500;
-  font-family: "Luciole-Bold";
-}
-
-p {
-  font-size: 24px;
-}
-
-.bouton {
-  color: #fff;
-  background-color: #023047;
-  font-size: 24px;
-  font-family: "Luciole-Bold";
-  margin-left: 120px;
-  padding-left: 60px;
-  padding-right: 60px;
-  padding-top: 10px;
-  padding-bottom: 15px;
-  margin-top: 50px;
-}
-
-.bouton:hover {
-  -webkit-box-shadow: 1px 7px #fb8500;
-  box-shadow: 1px 7px #fb8500;
-}
-
-#online{
-  width:500px;
-}
-
-.container_images-preconisations{
-  padding-left: 50px;
-}
+/
 
 /* MEDIA QUERIES POUR LANDING PAGE*/
 /*# sourceMappingURL=style.css.map */
