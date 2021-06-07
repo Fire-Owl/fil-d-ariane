@@ -23,7 +23,6 @@
 .container{
  
     display: flex;
-    
     flex-direction: row;
     justify-content: center;
     align-items: flex-end;
@@ -166,6 +165,7 @@ img{
     color: #fb8500;
     font-family: "Luciole-Bold";
     font-size: 24px;
+
   }
  
   .container-lexique{
@@ -190,6 +190,9 @@ img{
   width: 500px;
  }
  
+ .texte-lexique_bouton{
+   max-width: 39rem;
+ }
 
   /* MEDIA QUERIES POUR LANDING PAGE*/
   /*# sourceMappingURL=style.css.map */
@@ -219,7 +222,7 @@ img{
   color: #fb8500;
   font-family: "Luciole-Bold";
   padding-bottom: 50px;
- margin-top: 5px;
+  margin-top: 5px;
 
 }
 
@@ -231,7 +234,8 @@ img{
 .container-fleche{
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  align-items: flex-end;
+  padding-right: 10rem;
+ 
 }
 

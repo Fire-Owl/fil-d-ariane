@@ -37,12 +37,12 @@
 
     <div class="container3">
         <div class="container-lexique">
-            <p class="texte-lexique_bouton"> Nous nous sommes penchés sur cette problématique et<br> choisi de nous orienter vers le sujet de <span class="illectronisme">l’illectronisme.<br></span>
+            <p class="texte-lexique_bouton"> Nous nous sommes penchés sur cette problématique et choisi de nous orienter vers le sujet de <span class="illectronisme">l’illectronisme.<br></span>
             
-            En cette période de trouble sanitaire et de confinement,<br> nous avons tous eu dans notre entourage, une personne<br> âgée qui s’est retrouvé isolé car elle ne pouvait pas utiliser<br> de nouveaux moyens de communications.<br> 
-            De ce constat amer, nous avons décidé entre autres de parler<br> de 
-            sensibiliser au sujet de l’illectronisme, en se concentrant<br> sur l’accessibilité des séniors.<br>
-            Vous trouverez sur ce site divers informations de sensibilisations<br> et de préconisations sur le sujet de l’illectronisme. </p>
+            En cette période de trouble sanitaire et de confinement, nous avons tous eu dans notre entourage, une personne âgée qui s’est retrouvé isolé car elle ne pouvait pas utiliser de nouveaux moyens de communications.<br> 
+            De ce constat amer, nous avons décidé entre autres de parler de 
+            sensibiliser au sujet de l’illectronisme, en se concentrant sur l’accessibilité des séniors.
+            Vous trouverez sur ce site divers informations de sensibilisations et de préconisations sur le sujet de l’illectronisme. </p>
             <a href="../pages/"><button class="bouton" type="button"> Lexique</button></a>
         </div> <!-- ferme container informations -->
 
