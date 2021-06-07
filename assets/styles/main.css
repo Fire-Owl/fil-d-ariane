@@ -320,3 +320,48 @@ p {
   color: #023047;
 }
 /*fin-legal-notice*/
+
+/*lexique*/
+.contenaire_lexique{
+  margin-left: 4vw;
+}
+h4{
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+li{
+  color:#219EBC;
+  margin-left: 15px;
+  font-size: 1.5rem;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.titre_light{
+  color: #219EBC;
+  font-family: "Luciole-Bold";
+}
+
+.contenaire{
+   margin: 2px;
+}
+
+#orange{
+  color: #fb8500;
+  font-family: "Luciole-Regular";
+  font-size: 24px;
+
+}
+#Gael{
+  font-family: "Luciole-Regular";
+  font-size: 24px;
+}
+
+/*fin lexique*/
+
+
+
+
