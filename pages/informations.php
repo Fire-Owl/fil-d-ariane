@@ -42,7 +42,7 @@ L’information et la sensibilisation sont les<br> deux meilleurs moyens de pré
 <p>
 <img src="../assets/images/img_information_card2.svg" alt="">
 </p>
-<button>LIRE L'ARTICLE</button>
+<button><a href="#">LIRE L'ARTICLE</a></button>
 </div>
 <div></div>
 </div>
