@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../../../assets/styles/web-et-senior.css">
+    <link rel="stylesheet" href="../assets/styles/web-et-senior.css">
     <title>Web-et-senior</title>
 </head>
 <body>
@@ -16,7 +17,7 @@
     <p>De nos jours, l’utilisation d’internet c’est généralisé et multiplier au quotidien. Pour les personnes qui ont grandi avec ou ceux qui en on vu l’émergence, son utilisation est presque naturelle. Nous pouvons regardez les informations du bout du monde, commander nos courses, communiquer avec nos proches tout ça sans même que nous ayons besoin de réfléchir à comment le faire, c’est devenu instinctif chez la majorité d’entre nous.</p>
 </div>
 <div></div>
-<div><img id="firstblocimg" src="../../../assets/images/web-et-senior_img1.svg" alt=""></div>
+<div><img id="firstblocimg" src="../assets/images/web-et-senior_img1.svg" alt=""></div>
 <div></div>
 </div>
 
@@ -25,7 +26,7 @@
 
 <div></div>
 <div class="secbloc">
-<img id="secblocimg" src="../../../assets/images/web-et-senior_img2.svg" alt=""> 
+<img id="secblocimg" src="../assets/images/web-et-senior_img2.svg" alt=""> 
 </div>
 <div></div>
 <div>
@@ -44,7 +45,7 @@
     Les premiers à être impacter par les fractures numériques sont les séniors, mais avant de proposer des solutions d’accessibilité, <span class="orangeP">il est important de comprendre leurs utilisations d’Internet et des outils numériques.</span></p>
 </div>
 <div></div>
-<div><img id="thirdblocimg" src="../../../assets/images/web-et-senior_img3.svg" alt=""></div>
+<div><img id="thirdblocimg" src="../assets/images/web-et-senior_img3.svg" alt=""></div>
 <div></div>
 </div>
 
@@ -53,7 +54,7 @@
     <div class="fourthbloc">
 
     <div></div>
-    <div><img id="fourthblocimg" src="../../../assets/images/web-et-senior_img4.svg" alt="">
+    <div><img id="fourthblocimg" src="../assets/images/web-et-senior_img4.svg" alt="">
 </div>
     <div></div>
     <div class="fourthbloc_p"><p>Il y a encore peu, l’usage d’Internet chez les seniors était peu répandu, mais les nouvelles technologies s’ouvrent désormais à toutes les générations. Malgré la persistance de fractures numériques, l’usage de smartphone et d’Internet progresse fortement chez les seniors.<br>
@@ -70,7 +71,7 @@
         <div class="bloc5_p"><p><span class="orangeP">La majorité des seniors se servent des outils numériques pour des tâches basiques</span>, telles que consulter des mails, la météo, garder contact avec leurs familles via les réseaux sociaux. Cette dernière utilisation est la plus répandue. <span class="orangeP">L’utilisation du numérique est l’un des vecteurs les plus important pour lutter contre l’isolement.</span><br><br> 
         Les réseaux sociaux ainsi que les messageries instantanées sont des moyens efficaces pour lutter contre la solitude, particulièrement s’il est empreint d’une dimension affective.</p></div>
         <div></div>
-        <div><img id="bloc5img" src="../../../assets/images/web-et-senior_img5.svg" alt=""></div>
+        <div><img id="bloc5img" src="../assets/images/web-et-senior_img5.svg" alt=""></div>
         <div></div>
 </div>
 
@@ -79,7 +80,7 @@
 
     <div></div>
     <div>
-        <img id="bloc6_img" src="../../../assets/images/web-et-senior_img6.svg" alt="">
+        <img id="bloc6_img" src="../assets/images/web-et-senior_img6.svg" alt="">
     </div>
     <div></div>
     <div class="bloc6_p"><p>De plus, Internet peut être une source de plaisir et de divertissement, il leur permet d’avoir un accès plus large à l’information et de manière non négligeable, Internet permet aussi de lutter contre l’ennui. A cela s’ajoute aussi, le fait de pouvoir gagner du temps dans certaines démarches administrative.<br><br>
@@ -108,7 +109,7 @@
 <div class="lastWrap2">
 
     <div></div>
-        <div class="lastWrap2_img"><img src="../../../assets/images/last2-img.svg" alt=""></div>
+        <div class="lastWrap2_img"><img src="../assets/images/last2-img.svg" alt=""></div>
         <div class="lastWrap2_p">L’un des autres freins que les séniors peuvent rencontrer vient simplement de l’âge. En effet, les années passant, la vue peut baisser, la concentration diminue, ce qui influe indéniablement sur leur qualité de vie et donc leur habilité à utiliser les outils numériques. 
         S’ajoute aussi, un problème plus global, la couverture réseau. Certes, au fil des années les opérateurs couvrent de plus en plus du territoire mais il reste encore des zones rurales ou la connexion est soit inexistante soit trop faible. 
         </div>
@@ -124,11 +125,11 @@
 <div class="lastWrap3">
 
     <div></div>
-        <div class="lastWrap3_p">Dans une société de plus en plus connectée et numérique, <span color="colorP">Il devient plus qu’important et nécessaire de sensibiliser et de former les futures générations à ce sujet.</span><br><br>
+        <div class="lastWrap3_p">Dans une société de plus en plus connectée et numérique, <span class="orangeP">Il devient plus qu’important et nécessaire de sensibiliser et de former les futures générations à ce sujet.</span><br><br>
         Voilà pourquoi, vous trouverez en cliquant sur le bouton si dessous, une liste de mesures qui peuvent être mise en place très facilement par les développeurs de site web et d’application, pour rendre leurs produits plus accessibles pour nos ainés. <br><br>
         Par-delà les créateurs de contenu numérique, ce sont toutes les personnes qui maitrisent aisément Internet, qui peuvent s’inscrire dans des associations ou bien devenir bénévole pour transmettre leurs connaissances à ceux qui en ont le plus besoin.  
 </div>
-        <div class="lastWrap3_img"><img src="../../../assets/images/last-img.svg" alt=""></div>
+        <div class="lastWrap3_img"><img src="../assets/images/last-img.svg" alt=""></div>
     <div></div>
 
 
@@ -140,7 +141,7 @@
 <div><button  id="but">S'adresser aux seniors en tant <br>que developpeur</button></div>
 
 <div></div>
-<div id="autor"><img src="../../../assets/images/autor.svg" alt=""></div>
+<div id="autor"><img src="../assets/images/autor.svg" alt=""></div>
 
 </div>
 

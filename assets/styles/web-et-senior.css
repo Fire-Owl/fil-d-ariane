@@ -251,6 +251,7 @@
     .mainWrap,  .mainWrap2, .mainWrap3, .mainWrap4, .mainWrap5, .mainWrap6, .lastWrap, .lastWrap2, .lastWrap3, .lastWrap4, .endPage{
         grid-template-columns: repeat(1, 5fr);
         padding: 2rem;
+        margin: auto;
 
     }
     #fourthblocimg, #secblocimg, #bloc5img{
@@ -261,6 +262,19 @@
     }
     p, .lastWrap2_p, .lastWrap3_p{
         font-size: 20px;
+        margin: auto;
+    }
+    .fourthbloc_p{
+        width: 400px;
+        margin: auto;
+    }
+    #mainWrap4_title{
+        width: 400px;
+        margin: auto;
+
+    }
+    .bloc5_p, .secbloc_p, .endPage{
+        width: 400px;
     }
 
 
