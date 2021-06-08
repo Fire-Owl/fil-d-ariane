@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 {"version":3,"sources":[],"names":[],"mappings":"","file":"preconisations.css"}
+=======
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "preconisations.scss"
+    ],
+    "names": [],
+    "file": "preconisations.css"
+}
+>>>>>>> etienne
