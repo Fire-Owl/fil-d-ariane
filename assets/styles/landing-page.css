@@ -234,8 +234,7 @@ img{
 .container-fleche{
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
-  padding-right: 10rem;
+  align-items: center;
  
 }
 
