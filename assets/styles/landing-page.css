@@ -50,19 +50,6 @@ img{
   row-gap: 3rem;
 }
 
-img{
-}
-/*
-.container-informations{
-    margin-left: 50px;
-    margin-top: 50PX;
-}
-
-.container-images-informations{
-  margin-left: 50px;
-}
-*/
-
  #engines {
     width: 500px;
     bottom: 450px;
@@ -97,12 +84,7 @@ img{
     padding-right: 60px;
     padding-top: 10px;
     padding-bottom: 15px;
-    
-    /*
-    margin-top: 50px;
-    margin-left: 120px;
-    */
-    
+     
   }
   
   .bouton:hover {
@@ -194,27 +176,6 @@ img{
    max-width: 39rem;
  }
 
-  /* MEDIA QUERIES POUR LANDING PAGE*/
-  /*# sourceMappingURL=style.css.map */
-
-
-/*
-  
-
-@media screen and (min-width: 40rem) {
-  .texte-preconisations{
-    text-align: center;
-  
-  }
-
-  .Outils{
-    text-align: left;
-    width: 100%;
-
-  }
-}
-
-*/
 
 /*BOUTON RETOUR HAUT DE PAGE*/
 
