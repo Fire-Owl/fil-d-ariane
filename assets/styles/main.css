@@ -220,82 +220,30 @@ p {
 @media screen and (max-width: 768px) {
   .container__projet-et-image {
     display: flex;
-    flex-direction: column-reverse;
-    align-items: center;
-    margin-left: 15rem;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    font-family: "Luciole-Bold";
+    font-size: 16px;
+    line-height: 2em;
   }
-  .element__titre1 {
-    display: none;
+  
+  .link2 {
+    color: #fff;
+    font-family: "Luciole-Bold";
+    font-size: 16px;
+    line-height: 6em;
   }
-  .element__titre2 {
-    color: #fb8500;
-    text-align: center;
-    font-size: 40px;
-    margin-left: 10px;
+  
+  /* LOGO*/
+  .logo {
+    padding-left: 15px;
+    margin-top: 32px;
   }
-  #img_a-propos {
-    max-width: 400px;
-  }
-  .container__projet p {
-    max-width: 400px;
-
-    font-size: 30px;
-  }
-
-  .element__titre3 {
-    font-size: 40px;
-    margin-right: 25rem;
-  }
-}
-
+ 
 /*fin A propos*/
 
-/*LANDING PAGE*/
-#engines {
-  width: 500px;
-  position: absolute;
-  top: 45px;
-}
-
-.container_images-informations {
-  margin-left: 800px;
-}
-
-.container__informations {
-  margin-top: 100px;
-  margin-left: 150px;
-}
-
-.fil {
-  color: #023047;
-  font-family: "Luciole-Bold";
-}
-
-.access {
-  color: #fb8500;
-  font-family: "Luciole-Bold";
-}
-
-p {
-  font-size: 24px;
-}
-
-.bouton {
-  color: #fff;
-  background-color: #023047;
-  font-size: 24px;
-  font-family: "Luciole-Bold";
-  margin-left: 120px;
-  padding-left: 60px;
-  padding-right: 60px;
-  padding-top: 10px;
-  padding-bottom: 15px;
-}
-
-.bouton:hover {
-  -webkit-box-shadow: 1px 7px #fb8500;
-  box-shadow: 1px 7px #fb8500;
-}
+/
 
 /* MEDIA QUERIES POUR LANDING PAGE*/
 /*# sourceMappingURL=style.css.map */

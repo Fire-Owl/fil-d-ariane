@@ -1,0 +1,194 @@
+/*1ère section*/
+
+
+ /*DEBUT LANDING PAGE*/
+
+ body {
+    background-color: #f5f5f5;
+  }
+  
+.main__items{
+  display: flex;
+  flex-direction: column;
+  margin: 3rem;
+  row-gap: 3rem;
+}
+
+
+
+/* CAT INFORMATIONS*/
+
+.container{
+ 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    margin: 1.5rem;
+    column-gap: 3rem;
+}
+img{
+  width:100%;
+  height: auto;
+  max-width: 32rem;
+
+}
+
+.container-informations{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+  text-align: left;
+  max-width: 26rem;
+  row-gap: 3rem;
+}
+
+ #engines {
+    width: 500px;
+    bottom: 450px;
+  }
+
+  
+  .fil {
+    color: #023047;
+    font-family: "Luciole-Bold";
+    font-size: 24px;
+  }
+  
+  .access {
+    color: #fb8500;
+    font-family: "Luciole-Bold";
+    font-size: 24px;
+
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  .bouton {
+    color: #fff;
+    background-color: #023047;
+    font-size: 24px;
+    font-family: "Luciole-Bold";
+    
+    
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+     
+  }
+  
+  .bouton:hover {
+    -webkit-box-shadow: 1px 7px #fb8500;
+    box-shadow: 1px 7px #fb8500;
+  }
+  
+  #online{
+    width:500px;
+  }
+
+
+/*CAT PRECONISATIONS*/
+
+.container2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  row-gap: 3rem;
+
+}
+
+
+
+.texte-preconisations__bouton{
+  display: flex;
+  flex-direction: column;
+  row-gap: 3rem;
+}
+  
+  .texte-preconisations{
+    max-width: 26rem;
+    
+  }
+
+  .Internet{
+    color: #fb8500;
+    font-family: "Luciole-Bold";
+    
+  }
+
+  /*CAT LEXIQUE*/
+
+.container3{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  row-gap: 3rem;
+ 
+}
+  
+ 
+  .illectronisme{
+    color: #fb8500;
+    font-family: "Luciole-Bold";
+    font-size: 24px;
+
+  }
+ 
+  .container-lexique{
+    display: flex;
+    flex-direction: column;
+    row-gap: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     text-align: left;
+    
+    
+  }
+
+ #world{
+  width: 500px;
+  bottom: 450px;
+ }
+
+ #mention{
+  width: 500px;
+ }
+ 
+ .texte-lexique_bouton{
+   max-width: 39rem;
+ }
+
+
+/*BOUTON RETOUR HAUT DE PAGE*/
+
+.retour-haut-de-page{
+  color: #fb8500;
+  font-family: "Luciole-Bold";
+  padding-bottom: 50px;
+  margin-top: 5px;
+
+}
+
+.fleche{
+  width: 100px;
+
+}
+
+.container-fleche{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+
