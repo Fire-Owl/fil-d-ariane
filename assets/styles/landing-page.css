@@ -15,7 +15,6 @@
 }
 
 
-
 /* CAT INFORMATIONS*/
 
 .container{
@@ -34,6 +33,7 @@ img{
   max-width: 32rem;
 
 }
+
 
 .container-informations{
  display: flex;
@@ -103,8 +103,6 @@ img{
   row-gap: 3rem;
 
 }
-
-
 
 .texte-preconisations__bouton{
   display: flex;
