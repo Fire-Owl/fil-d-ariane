@@ -1,4 +1,5 @@
 <?php include '../includes/header.php'; ?>
+<link rel="stylesheet" href="../assets/style.css">
 <div class='contenaire_lexique'>
     <h1 class=titre1>Lexique</h1>
         <p>Vous êtes souvent perdu avec tout ce jargon numérique? Vous avez l’impression de déchiffrer une langue étrangère? Pas de panique! Voici un court lexique couvrant quelques termes couramment rencontrés, ansi que des ressources externes utiles!</p>

@@ -8,7 +8,7 @@
             <p class="bonjour">Bonjour chers voyageurs du web, bienvenue au bout du <span class="fil">« Fil d’Ariane ».</span></p>
 
             <p class="stagiaires"> Nous sommes une équipe de 4, stagiaires à l’Access Code School de Dijon, notre projet à pour but de sensibiliser les développeurs, les intégrateurs web et le public à <span class="access">l’accessibilité numérique.</span></p> 
-            <a href="../pages/"><button class="bouton" type="button"> Informations</button></a>
+            <a href="../pages/informations.php"><button class="bouton" type="button"> Informations</button></a>
         </div> <!-- ferme container informations -->
         
         
@@ -27,7 +27,7 @@
 
                 <div class="texte-preconisations__bouton">
                     <p class="Internet">Qu'en est-il des personnes n’ayant pas grandi avec Internet et l’essor du numérique ? </p>
-                    <a href="../pages/"><button class="bouton" type="button"> Préconisations</button></a>
+                    <a href="../pages/preconisations.php"><button class="bouton" type="button"> Préconisations</button></a>
                 </div>
 
         </div>
@@ -43,7 +43,7 @@
             De ce constat amer, nous avons décidé entre autres de parler de 
             sensibiliser au sujet de l’illectronisme, en se concentrant sur l’accessibilité des séniors.
             Vous trouverez sur ce site divers informations de sensibilisations et de préconisations sur le sujet de l’illectronisme. </p>
-            <a href="../pages/"><button class="bouton" type="button"> Lexique</button></a>
+            <a href="../pages/lexique.php"><button class="bouton" type="button"> Lexique</button></a>
         </div> <!-- ferme container informations -->
 
 

@@ -34,8 +34,9 @@ L’information et la sensibilisation sont les<br> deux meilleurs moyens de pré
 <p>
 <img src="../assets/images/img_information_card1.svg" alt="">
 </p>
-<a href=""></a>
+<a href="illectronisme.php">
 <button>LIRE L'ARTICLE</button>
+</a>
 </div>
 <div></div>
 <div class="card2">

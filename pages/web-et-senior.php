@@ -1,3 +1,4 @@
+<?php include '../includes/header.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -138,7 +139,7 @@
 <div class="lastWrap4">
 
 <div></div>
-<div><button  id="but">S'adresser aux seniors en tant <br>que developpeur</button></div>
+<div><a href="../pages/solutiondev.php"><button  id="but">S'adresser aux seniors en tant <br>que developpeur</button></a></div>
 
 <div></div>
 <div id="autor"><img src="../assets/images/autor.svg" alt=""></div>
