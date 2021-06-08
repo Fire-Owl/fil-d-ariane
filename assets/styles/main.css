@@ -127,7 +127,7 @@ a {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  position:relative;
+  position: relative;
   bottom: 0;
   width: 100%;
 }
@@ -365,3 +365,16 @@ li{
 
 
 
+/* css pour fil d'ariane */
+
+path{
+  stroke-dasharray: 1100px;
+
+}
+
+#img{
+    position: absolute;
+    right: 0;
+    margin-right: 30px;
+    margin-top: -20px;
+}
