@@ -233,21 +233,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media screen and (max-width:700px){
+@media screen and (max-width:800px){
     .mainWrap,  .mainWrap2, .mainWrap3, .mainWrap4, .mainWrap5, .mainWrap6, .lastWrap, .lastWrap2, .lastWrap3, .lastWrap4, .endPage{
         grid-template-columns: repeat(1, 5fr);
         padding: 2rem;

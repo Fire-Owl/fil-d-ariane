@@ -118,7 +118,7 @@
     margin-top: 100px;
 }
 
-@media screen and (max-width:700px){
+@media screen and (max-width:800px){
     .mainWrap,.mainWrap2, .mainWrap3{
     grid-template-columns: repeat(1, 10fr);
 }

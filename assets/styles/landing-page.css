@@ -2,7 +2,9 @@
 
 
  /*DEBUT LANDING PAGE*/
-
+*{
+  font-family: "Luciole-Regular";
+}
  body {
     background-color: #f5f5f5;
   }
@@ -45,7 +47,7 @@ img{
   row-gap: 3rem;
 }
 
- #engines {
+ #engines1 {
     width: 500px;
     bottom: 450px;
   }
@@ -103,6 +105,9 @@ img{
   row-gap: 3rem;
 
 }
+
+
+ 
 
 .texte-preconisations__bouton{
   display: flex;

@@ -1,5 +1,5 @@
 <?php include '../includes/header.php'; ?> 
- 
+<link rel="stylesheet" href="../asstes/styles/landing-page.css">
 
 <!-- CAT INFORMATIONS -->
 <div class="main__items">
@@ -12,7 +12,7 @@
         </div> <!-- ferme container informations -->
         
         
-            <img src="../assets/images/Search-engines-rafiki.svg" alt="search engines rafiki.svg" id="engines">
+            <img src="../assets/images/Search-engines-rafiki.svg" alt="search engines rafiki.svg" id="engines1">
         
 </div> <!-- ferme container -->
 

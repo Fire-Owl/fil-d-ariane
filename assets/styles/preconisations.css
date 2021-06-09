@@ -149,7 +149,7 @@ box-shadow: #fb8500 2px 2px 2px 2px;
 
 
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:800px) {
     .wrapper1{
         grid-template-columns: repeat(1, 4fr);
 

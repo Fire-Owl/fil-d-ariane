@@ -1,5 +1,5 @@
 <?php include '../includes/header.php'; ?>
-<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="../assets//styles/style.css">
 <div class='contenaire_lexique'>
     <h1 class=titre1>Lexique</h1>
         <p>Vous êtes souvent perdu avec tout ce jargon numérique? Vous avez l’impression de déchiffrer une langue étrangère? Pas de panique! Voici un court lexique couvrant quelques termes couramment rencontrés, ansi que des ressources externes utiles!</p>
@@ -97,7 +97,7 @@
 
     <div class="contenaire">
         <img src="../assets/images/avatar-ariane-gael 1.svg" alt="">
-            <span id="Gael">Gael<span id="orange">Sudour-Jeannin</span></span>
+            <span id="Gael1">Gael<span id="orange">Sudour-Jeannin</span></span>
     </div>
     <p>Stagiaire ACS Dijon</p>
 </div>

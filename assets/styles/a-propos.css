@@ -109,7 +109,7 @@ a {
 }
 
 /* mobile screen */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .container__projet_et_image {
     flex-direction: column-reverse;
     margin-left: 0;
