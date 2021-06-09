@@ -208,6 +208,10 @@ li{
    margin: 2px;
 }
 
+#imgGAEL{
+  width: 120px;
+}
+
 #orange{
   color: #fb8500;
   font-family: "Luciole-Regular";
@@ -216,7 +220,7 @@ li{
 }
 #Gael1{
   font-family: "Luciole-Regular";
-  font-size: 10px;
+  font-size: 24px;
 }
 
 /*fin lexique*/

@@ -37,9 +37,9 @@
 
     <div class="container3">
         <div class="container-lexique">
-            <p class="texte-lexique_bouton"> Nous nous sommes penchés sur cette problématique et choisi de nous orienter vers le sujet de <span class="illectronisme">l’illectronisme.<br></span>
+            <p class="texte-lexique_bouton"> Nous nous sommes penchés sur cette problématique et choisi de nous orienter vers le sujet de <span class="illectronisme">l’illectronisme.<br><br></span>
             
-            En cette période de trouble sanitaire et de confinement, nous avons tous eu dans notre entourage, une personne âgée qui s’est retrouvé isolé car elle ne pouvait pas utiliser de nouveaux moyens de communications.<br> 
+            En cette période de trouble sanitaire et de confinement, nous avons tous eu dans notre entourage, une personne âgée qui s’est retrouvé isolé car elle ne pouvait pas utiliser de nouveaux moyens de communications.<br><br>
             De ce constat amer, nous avons décidé entre autres de parler de 
             sensibiliser au sujet de l’illectronisme, en se concentrant sur l’accessibilité des séniors.
             Vous trouverez sur ce site divers informations de sensibilisations et de préconisations sur le sujet de l’illectronisme. </p>
@@ -57,7 +57,7 @@
 </div><!-- ferme div main items-->
 
 <div class="container-fleche">
-<a href="#" class="fleche"><button class="fleche"><img src="../assets/images/btn-haut.svg " alt="fleche"></a>
+<a href="#" class="fleche"><button class="fleche"><img src="../assets/images/btn-haut.svg " id="imgfleche" alt="fleche"></a>
             <p class="retour-haut-de-page">Retour haut de page</p>
 
 </div>
