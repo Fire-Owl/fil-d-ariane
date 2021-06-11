@@ -142,7 +142,7 @@
 <div><a href="../pages/solutiondev.php"><button  id="but">S'adresser aux seniors en tant <br>que developpeur</button></a></div>
 
 <div></div>
-<div id="autor"><img src="../assets/images/autor.svg" alt=""></div>
+<div id="autor"><a href="https://github.com/WilliamsChazal"><img src="../assets/images/autor.svg" alt=""></a></div>
 
 </div>
 

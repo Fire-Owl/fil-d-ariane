@@ -30,7 +30,7 @@
         <div class="container-texte-2">
             <p>
                 Ce néologisme est né de la combinaison des notions d’illettrisme et d’électronique, renvoie aux fractures numériques qui <span class="text_color">touchent prêt d’un quart de la population française.</span><br><br>
-                Dans, l’illectronisme, on distingue <span class="text_color">les personnes qui ne savent pas se servir des outils numérique</span> tels que les ordinateurs ou les smartphones et <span class="text_color">les personnes qui quant à eux ont des difficulté à maitriser le contenu sur Internet</span> (remplir des formulaire en lignes, acheter sur un site web..)
+                Dans l’illectronisme, on distingue <span class="text_color">les personnes qui ne savent pas se servir des outils numériques</span> tels que les ordinateurs ou les smartphones et <span class="text_color">les personnes qui quant à eux ont des difficultées à maitriser le contenu sur Internet</span> (remplir des formulaire en ligne, acheter sur un site web..)
             </p>
 
             <img class="image-1 image" id="image-i" src="../assets/images/questions-pana.svg" alt="">
@@ -40,7 +40,7 @@
         <div class="container-texte-3">
 
             <p>
-                Dans une société de plus en plus numérique, dans notre Start-up Nation, <span class="text_color"> l’acquisition de compétences informatique est devenue nécessaire et indispensable pour évoluer en tant que citoyen.</span><br><br>Mais pour certains de nos concitoyens ces compétences si indispensable soit elles, ne sont pas connus pour diverses raisons,<span class="text_color">créant donc de<br> nouvelles fractures et inégalités. </p>
+                Dans une société de plus en plus numérique, <span class="text_color"> l’acquisition de compétences informatiques est devenue nécessaires est indispensable pour évoluer en tant que citoyen.</span><br><br>Mais pour certains de nos concitoyens ces compétences, si indispensable soit elles, ne sont pas connues pour diverses raisons,<span class="text_color">créant donc de<br> nouvelles fractures et de nouvelles inégalités. </p>
             <div>
                 <img class="image-1" src="../assets/images/search-bro.svg" alt="">
             </div>
@@ -49,8 +49,7 @@
         <div class="container-texte-4">
 
             <p>
-                Un Plan d’Action mis en place par le gouvernement vise notamment à dématérialiser les 250 démarches publiques les plus utilisées, ce souhait met en avant les fractures numériques présentent en France. Mais cela ne s’arrête pas uniquement aux démarches administratives, l’utilisation d’Internet couvrent toutes les actions qui par avant demandais un contact physique, maintenant pour chercher du travail, garder contact avec sa famille le numérique est quasi-obligatoire.<br><br>
-                Cet sur utilisation du numérique laisse de côté de nombreuses personnes. <span class="text_color">L’illectronisme ne touche pas que les personnes âgées ou les zones blanches mais elle bien tout le monde peu en être victime.</span>
+                Un Plan d’Action mis en place par le gouvernement vise notamment à dématérialiser les 250 démarches publiques les plus utilisées, ce souhait met en avant les fractures numériques présentes en France. Mais cela ne s’arrête pas uniquement aux démarches administratives, l’utilisation d’Internet couvre toutes les actions qui demandaient auparavant un contact physique, maintenant pour chercher du travail, garder contact avec sa famille le numérique est quasi-obligatoire.<br><br>
             </p>
 
             <img class="image-1" src="../assets/images/brainstorming-rafiki.svg" alt="">
@@ -63,7 +62,7 @@
         <div class="container-texte-5">
 
             <p>
-                <span class="text_color">En France, en 2020 19% des français disent être victimes d’illectronisme et de subir les effets des fractures numériques.</span><br><br>Selon une enquête commandée par le sénat, la France est placée 15ème sur 27 des pays de l’UE en termes d’accessibilité numérique. L’illectronisme touchent tout le monde.
+                <span class="text_color">En France, en 2020 19% des français disent être victimes d’illectronisme et de subir les effets des fractures numériques.</span><br><br>Selon une enquête commandée par le sénat, la France est placée 15ème sur 27 des pays de l’UE en termes d’accessibilité numérique. L’illectronisme touche tout le monde.
             </p>
 
             <img class="image-1" src=" ../assets/images/working-rafiki-blue.svg" alt="">
@@ -73,7 +72,7 @@
         <div class="container-texte-multitasking">
             <img class="image-1" src=" ../assets/images/multitasking-rafiki.svg" alt="">
             <p>
-                <span class="text_color">Les premiers à subir les exclusions numériques sont les personnes qui n’ont pas grandi ou n’ont pas participé à l’émergence du web</span><br><br>Pour ceux qui découvrent le numérique et Internet, l’afflux d’informations et de connaissances nécessaires à leurs utilisations semblent insurmontable à apprendre, ce qui entrainent et crée un sentiment d’abandon numérique.<br><br>L’illectronisme touche aussi ceux qui doivent se servir d’internet dans leurs quotidiens.
+                <span class="text_color">Les premiers à subir les exclusions numériques sont les personnes qui n’ont pas grandi ou n’ont pas participé à l’émergence du web</span><br><br>Pour ceux qui découvrent le numérique et Internet, l’afflux d’informations et de connaissances nécessaires à leurs utilisations semblent insurmontable à apprendre, ce qui entraine et crée un sentiment d’abandon numérique.<br><br>L’illectronisme touche aussi ceux qui doivent se servir d’internet dans leurs quotidiens.
                 <span class="text_color">Ces fractures ont été un peu plus pointé du doigt en ces périodes de confinements, beaucoup de travailleurs ont dû télé-travailler.</span>
             </p>
 
@@ -105,8 +104,7 @@
 
         <div class="container-texte-8">
             <p>
-                Malgré les enquêtes menées par le gouvernement et le travail d’associations, <span class="text_color">l’illectronisme n’est pas un sujet suffisamment connu par le grand publique.</span>
-                Cette affliction touchent de nombreuses personnes, et causes des dommages certes invisibles mais bien réel, il est important de <span class="text_color">penser à tous ceux qui sont seuls car personnes ne leurs à montrer comment utiliser les réseaux sociaux,</span> à ces personnes qui se retrouvent exclu car ils ne savent pas écrire un document Word ou faire correctement des recherches sur Internet.
+                Malgré les enquêtes menées par le gouvernement et le travail d’associations, <span class="text_color">l’illectronisme n’est pas un sujet suffisamment connu du grand public.</span>
             </p>
 
             <img class="image-1" src=" ../assets/images/development-pana.svg" alt="">
@@ -116,7 +114,7 @@
 
             <img class="image-1" src=" ../assets/images/select-rafiki.svg" alt="">
             <p>
-                Pour améliorer l’accessibilité sur le sujet de l’accessibilité numérique,<span class="text_color"> tous le monde doit être concerné, de l’UI Designer, au Designer Web, à l’intégrateur aux personnes qui ont commandé le site. En formant et sensibilisant la prochaine génération de développeur, d’entrepreneur, à ce sujet ce sera intuitif chez eux de penser à l’accessibilité.</span>
+                Pour améliorer l’accessibilité sur le sujet de l’accessibilité numérique,<span class="text_color"> tout le monde doit être concerné, de l’UI Designer, au Designer Web, en passant par l’intégrateur jusqu'aux personnes qui ont commandé le site. En formant et sensibilisant la prochaine génération de développeur, d’entrepreneur, à ce sujet ce sera intuitif chez eux de penser à l’accessibilité.</span>
             </p>
 
 
@@ -125,8 +123,8 @@
         <div class="container-texte-10">
 
             <p class="texte-sensibilisation">
-                Ce site ayant pour<span class="text_color">but de sensibiliser</span> sur ce sujet, en suivant le fil d’ariane et <span class="text_color">en cliquant sur le bouton ci-dessous vous trouverez un semble de préconisation à l’intention des développeurs pour rendre un site le plus accessible possible.</span>
-                De plus nous avons voulus regrouper plusieurs ressources utiles pour améliorer l’accessibilité des personnes en situation d’illectronisme.
+                Ce site ayant pour<span class="text_color">but de sensibiliser</span> sur ce sujet, en suivant le fil d’ariane et <span class="text_color">en cliquant sur le bouton ci-dessous vous trouverez quelques préconisations à l’intention des développeurs pour rendre un site le plus accessible possible.</span>
+                De plus nous avons voulu regrouper plusieurs ressources utiles pour améliorer l’accessibilité des personnes en situation d’illectronisme.
             </p>
 
 
@@ -143,7 +141,9 @@
 
             </a>
             <div id="test">
+                <a href="https://github.com/WilliamsChazal">
                 <img class="image-3" src=" ../assets/images/will-2.svg" alt="williams.png">
+                </a>
             </div>
         </div>
 

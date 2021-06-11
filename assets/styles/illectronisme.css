@@ -11,6 +11,7 @@
   margin: auto;
   max-width: 1400px;
   margin-left: 7rem;
+  margin-top: 7rem;
 }
 
 .container-texte {
@@ -46,9 +47,8 @@
 
 .image-1 {
   width: 500px;
-  margin-bottom: 7rem;
+  margin-bottom: 10rem;
   margin-right: 5rem;
-  margin-top: 2rem;
 }
 
 .container-texte {
@@ -145,7 +145,7 @@
   flex-direction: row;
   font-family: "Luciole-Regular";
   font-size: 24px;
-  margin-top: 2rem;
+margin-top: -200px;
 }
 
 .image-2 {
@@ -181,6 +181,7 @@
   font-size: 24px;
   flex: stretch;
   margin-top: 4rem;
+  margin-bottom: 8rem;
 }
 .image-3 {
   margin-right: 40rem;
