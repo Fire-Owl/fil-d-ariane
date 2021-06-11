@@ -16,9 +16,8 @@
 <div></div>
 <div class="firstbloc">
 <h1>Être accessible sur le web</h1>
-<p>Rendre son site web accessible devrait être parmi les priorités de tout designer ou développeur qui souhaite s’adresser à un large public</p>
+<p>Rendre son site web accessible devrait figurer parmi les priorités de tout designer ou développeur qui souhaite s’adresser à un large public</p>
 <p>En plus des questions éthiques et de l’image positive que cela transmet, proposer un site avec une accessibilité plus importante permet aussi d’élargir son audience et de communiquer auprès d’un plus grand nombre.
-Nous allons voir dans cet article quelques points essentiels sur <span id="text_orange">comment proposer un outil de communication numérique qui s’adresse réellement à tous.</span></p>
 </div>
 <div></div>
 <div><img id="firstblocimg" src="../assets/images/Mobile development-amico 1.svg" alt=""></div>
@@ -75,7 +74,7 @@ Nous allons voir dans cet article quelques points essentiels sur <span id="text_
 <li class="secbloc_p"><span id="text_orange">Guider l’utilisateur</span> vers le contenu pertinent de la page (Via des ancres html, un texte plus concis, des menus…) 
 </li>
 <li class="secbloc_p">Réaliser <span id="text_orange">un design sobre et cohérent</span>, facile à comprendre et dans lequel <span id="text_orange">on peut facilement distinguer les éléments de navigation</span> et les utiliser.</li></p>
-<li class="secbloc_p">Rendre le <span id="text_orange">site responsive</span> et adapté à un maximum de terminaux.</li></p>
+<li class="secbloc_p">Rendre le <span id="text_orange">site responsive</span> et adapté à un maximum de supports.</li></p>
 </div>
 <div></div>
 </div>
