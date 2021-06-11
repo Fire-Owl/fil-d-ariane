@@ -1,0 +1,125 @@
+.mainWrap{
+    display: grid;
+    grid-template-columns:1fr 3fr 0fr 3fr 1fr;
+    }
+    
+    
+    
+    @font-face {
+    font-family: "Luciole-Bold";
+    src: url(../font/Luciole-Bold.ttf);
+    }
+    @font-face {
+    font-family: "Luciole-Regular";
+    src: url(../font/Luciole-Regular.ttf);
+    }
+    
+    
+    .firstbloc{
+        padding-top: 20px;
+    }
+    .firstbloc h1{
+    font-family: 'Luciole-Bold';
+    color: #FB8500;
+    font-size: 50px;
+    }
+    
+    .firstbloc p{
+    font-family: 'Luciole-Regular';
+    color: #222222;
+    font-size: 24px;
+    }
+    
+    #firstblocimg{
+    margin-top: 120px;
+    margin-left: 25px;
+    }
+    
+    .mainWrap2{
+    display: grid;
+    grid-template-columns:1fr 3fr 0fr 3fr 1fr;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    }
+    
+    
+    #secblocimg{
+    margin-top: 60px;
+    margin-left: 55px;
+    width: 400px;
+    }
+    
+    .secbloc_h1{
+    font-family: 'Luciole-Bold';
+    color: #FB8500;
+    font-size: 25px;
+    }
+    
+    .secbloc_p{
+    font-family: 'Luciole-Regular';
+    color: #222222;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    }
+    
+    
+    .mainWrap3{
+    display: grid;
+    grid-template-columns:1fr 3fr 0fr 3fr 1fr;
+    }
+    
+    .thirdbloc p{
+    font-family: 'Luciole-Regular';
+    color: #222222;
+    font-size: 24px;
+    }
+    
+    #thirdblocimg{
+    width: 650px;
+    margin-top: 45px;
+    margin-left: 75px;
+    
+    }
+    
+#text_orange{
+    color:#FB8500;
+    font-family:"Luciole-Regular";
+    font-size: 24px;
+}
+
+.second_title{
+    color: #023047;
+    font-family: "Luciole-Bold";
+    font-size: 50px;
+}
+
+.mainWrap{
+    margin-top: 50px;
+}
+
+.second_title1{
+    color: #FB8500;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.link{
+    padding-bottom: 20px;
+}
+.p{
+    padding-bottom:25px;
+}
+
+.text_area{
+    margin-top: 300px;
+}
+.text_area1{
+    margin-top: 100px;
+}
+
+@media screen and (max-width:800px){
+    .mainWrap,.mainWrap2, .mainWrap3{
+    grid-template-columns: repeat(1, 10fr);
+}
+}

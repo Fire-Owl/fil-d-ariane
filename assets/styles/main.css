@@ -1,4 +1,3 @@
-
 @font-face {
   font-family: "Luciole-Bold";
   src: url(../font/Luciole-Bold.ttf);
@@ -8,21 +7,9 @@
   src: url(../font/Luciole-Regular.ttf);
 }
 
-
-* {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-family: sans-serif;
-  font-size: 1rem;
-  font-weight: normal;
-  font-style: normal;
-  text-decoration: none;
-}
-
-* {
+/* * {
   border: red solid 0px;
-}
+} */
 
 /*header*/
 .containerlogo {
@@ -77,7 +64,7 @@ a {
   width: 37px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .icon {
     display: block;
   }
@@ -115,6 +102,7 @@ a {
     display: none;
   }
 }
+
 /*fin header*/
 
 /*footer*/
@@ -126,7 +114,7 @@ a {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
 }
@@ -159,96 +147,24 @@ a {
 }
 /*fin footer*/
 
-/* A propos*/
-.element__titre2 {
-  border: solid red 1px;
-}
-body {
-  background-color: #f5f5f5;
-}
-.container {
-  display: flex;
-  flex-direction: column;
-}
 
-.container__projet-et-image {
-  display: flex;
-  justify-content: center;
-}
 
-.container__projet p {
-  width: 500px;
-  font-size: 24px;
-  margin-right: 15rem;
-  margin-left: 200px;
-}
+/* MEDIA QUERIES POUR LANDING PAGE*/
+/*# sourceMappingURL=style.css.map */
 
-#img_a-propos {
-  width: 500px;
-}
 
-.element__titre1 {
-  color: #fb8500;
-  margin-left: 200px;
-  font-family: "Luciole-Bold";
+/*legal-notice*/
+.container1{
+  margin-left: 14vw;
+  margin-top: 5vw;
+  margin-right: 5vw;
+  margin-bottom: 2vw;
+}
+.titre1{
   font-size: 50px;
-}
-.element__titre2 {
-  color: #023047;
   font-family: "Luciole-Bold";
+  color: #fb8500;
 }
-
-/* .element__titre3 {
-} */
-
-p {
-  font-family: "Luciole-Regular";
-}
-.img_a-propos {
-  height: auto;
-  display: flex;
-}
-
-.element__titre3 {
-  color: #023047;
-  margin-left: 200px;
-  font-family: "Luciole-Bold";
-}
-
-/* mobile screen */
-@media screen and (max-width: 768px) {
-  .container__projet-et-image {
-    display: flex;
-    flex-direction: column-reverse;
-    align-items: center;
-    margin-left: 15rem;
-  }
-  .element__titre1 {
-    display: none;
-  }
-  .element__titre2 {
-    color: #fb8500;
-    text-align: center;
-    font-size: 40px;
-    margin-left: 10px;
-  }
-  #img_a-propos {
-    max-width: 400px;
-  }
-  .container__projet p {
-    max-width: 400px;
-
-    font-size: 30px;
-  }
-
-  .element__titre3 {
-    font-size: 40px;
-    margin-right: 25rem;
-  }
-}
-
-/*fin A propos*/
-
 /*LANDING PAGE*/
 #engines {
   width: 500px;
@@ -256,45 +172,71 @@ p {
   top: 45px;
 }
 
-.container_images-informations {
-  margin-left: 800px;
-}
-
-.container__informations {
-  margin-top: 100px;
-  margin-left: 150px;
-}
-
-.fil {
+.titre2{
+  font-size: 40px;
+  font-family: "Luciole-Bold";
   color: #023047;
-  font-family: "Luciole-Bold";
 }
+/*fin-legal-notice*/
 
-.access {
-  color: #fb8500;
-  font-family: "Luciole-Bold";
+/*lexique*/
+.contenaire_lexique{
+  margin-left: 4vw;
+  font-family: "Luciole-Regular";
 }
-
-p {
-  font-size: 24px;
-}
-
-.bouton {
-  color: #fff;
-  background-color: #023047;
-  font-size: 24px;
-  font-family: "Luciole-Bold";
-  margin-left: 120px;
-  padding-left: 60px;
-  padding-right: 60px;
-  padding-top: 10px;
+h4{
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding-top: 20px;
   padding-bottom: 15px;
 }
 
-.bouton:hover {
-  -webkit-box-shadow: 1px 7px #fb8500;
-  box-shadow: 1px 7px #fb8500;
+li{
+  color:#219EBC;
+  margin-left: 15px;
+  font-size: 1.5rem;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
-/* MEDIA QUERIES POUR LANDING PAGE*/
-/*# sourceMappingURL=style.css.map */
+.titre_light{
+  color: #219EBC;
+  font-family: "Luciole-Bold";
+}
+
+.contenaire{
+   margin: 2px;
+}
+
+#imgGAEL{
+  width: 120px;
+}
+
+#orange{
+  color: #fb8500;
+  font-family: "Luciole-Regular";
+  font-size: 24px;
+
+}
+#Gael1{
+  font-family: "Luciole-Regular";
+  font-size: 24px;
+}
+
+/*fin lexique*/
+
+
+
+/* css pour fil d'ariane */
+
+path{
+  stroke-dasharray: 1100px;
+
+}
+
+#img{
+    position: absolute;
+    right: 0;
+    margin-right: 30px;
+    margin-top: -20px;
+}
