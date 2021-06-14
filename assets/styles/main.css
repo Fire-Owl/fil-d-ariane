@@ -183,6 +183,7 @@ a {
 .contenaire_lexique{
   margin-left: 4vw;
   font-family: "Luciole-Regular";
+  padding: 150px;
 }
 h4{
   font-weight: bold;
@@ -242,9 +243,11 @@ path{
 }
 
 .img-landing{
-  transform: scaleY(1.7) !important;
-  margin-top: 480px !important;
+  transform: scaleY(1.6) !important;
+  margin-top: 420px !important;
 }
+
+
 
 
 
