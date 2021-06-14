@@ -240,3 +240,11 @@ path{
     margin-right: 30px;
     margin-top: -20px;
 }
+
+.img-landing{
+  transform: scaleY(1.7) !important;
+  margin-top: 480px !important;
+}
+
+
+
