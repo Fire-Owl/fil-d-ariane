@@ -21,7 +21,7 @@ if (document.location.href == 'http://localhost/fil-d-ariane/pages/landing-page.
           var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
           var scrolled = (winScroll / height) * 100;
           document.getElementById("img").style.strokeDashoffset = (1990)-scrolled + "rem";
-        }
+  }
 
 } else if (document.location.href == 'http://localhost/fil-d-ariane/pages/lexique.php') {
             document.getElementById('img').style.display = 'none';
@@ -34,8 +34,17 @@ if (document.location.href == 'http://localhost/fil-d-ariane/pages/landing-page.
         var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
         var scrolled = (winScroll / height) * 100;
         document.getElementById("img").style.strokeDashoffset = (1990)-scrolled + "rem";
-      };
+  };
 };
 
 
-/* landing=1656px */
+/* bouton haut de page */
+/* $(function(){
+  $("#monBouton").click(function(){
+      $("html, body").animate({scrollTop: 0},"slow");
+  });
+});
+ */
+function scrollUp(){
+  document.getElementById('up').animate.scrollTop(0);
+};

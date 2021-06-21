@@ -13,6 +13,7 @@
         
         
             <img src="../assets/images/Search-engines-rafiki.svg" alt="search engines rafiki.svg" id="engines1">
+            
         
 </div> <!-- ferme container -->
 
@@ -57,7 +58,7 @@
 </div><!-- ferme div main items-->
 
 <div class="container-fleche">
-<a href="#" class="fleche"><button class="fleche"><img src="../assets/images/btn-haut.svg " id="imgfleche" alt="fleche"></a>
+<a href=# class="fleche"><button class="fleche"><img src="../assets/images/btn-haut.svg " id="imgfleche" alt="fleche"></a>
             <p class="retour-haut-de-page">Retour haut de page</p>
 
 </div>
