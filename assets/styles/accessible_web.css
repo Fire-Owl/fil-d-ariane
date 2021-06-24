@@ -2,7 +2,16 @@
     display: grid;
     grid-template-columns:1fr 3fr 0fr 3fr 1fr;
     }
-    
+
+@media screen and (max-width:720px) {
+    .resp{
+        grid-template-columns: 1fr;
+    }
+    .mainWrap, .mainWrap2, .mainWrap3{
+        grid-template-columns: 1fr;
+    }
+}    
+
     
     
     @font-face {

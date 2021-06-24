@@ -14,7 +14,6 @@ body {
 }
 .container {
   display: flex;
-  flex-direction: column;
 }
 
 .container__projet_et_image {
@@ -102,11 +101,6 @@ p {
   display: none;
 }
 
-a {
-  font-family: "Luciol-Regular";
-  font-size: 10px;
-  text-decoration: none;
-}
 
 /* mobile screen */
 @media screen and (max-width: 800px) {
@@ -119,9 +113,9 @@ a {
     margin-left: 2rem;
   }
 
-  .container__projet {
+/*   .container__projet {
     margin-left: 2rem;
-  }
+  } */
 
   .equipe_mobile {
     display: flex;
@@ -151,9 +145,7 @@ a {
   .element__titre3 {
     margin-left: 0;
   }
-  .element__titre1 {
-    display: none;
-  }
+
 
   #paule,
   #gael {
@@ -175,13 +167,7 @@ a {
     font-family: "Luciole-Bold";
   }
 
-  .fleche {
-    margin-top: 2rem;
-    max-width: auto;
-    border: none;
-    background-color: #f5f5f5;
-    margin-left: 2rem;
-  }
+
 }
 
 /*fin A propos*/

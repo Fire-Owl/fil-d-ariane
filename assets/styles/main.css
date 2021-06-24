@@ -247,7 +247,9 @@ path{
   margin-top: 420px !important;
 }
 
-
+html {
+  scroll-behavior: smooth;
+}
 
 
 

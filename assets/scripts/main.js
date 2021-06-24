@@ -10,7 +10,7 @@ function mobileMenu() {
 /* script pour le fil */
 
 
-if (document.location.href == 'http://localhost/fil-d-ariane/pages/landing-page.php') {
+if (document.location.pathname == '/fil-d-ariane/pages/landing-page.php') {
   
   document.getElementById('img').classList.add('img-landing');
 
@@ -23,9 +23,17 @@ if (document.location.href == 'http://localhost/fil-d-ariane/pages/landing-page.
           document.getElementById("img").style.strokeDashoffset = (1990)-scrolled + "rem";
   }
 
-} else if (document.location.href == 'http://localhost/fil-d-ariane/pages/lexique.php') {
+} else if (document.location.pathname == '/fil-d-ariane/pages/lexique.php') {
             document.getElementById('img').style.display = 'none';
-
+          
+} else if(document.location.pathname == '/fil-d-ariane/pages/Accessible_web.php') {
+  document.getElementById('img').style.display = 'none';
+} else if(document.location.pathname == '/fil-d-ariane/pages/web-et-senior.php') {
+  document.getElementById('img').style.display = 'none';
+} else if(document.location.pathname == '/fil-d-ariane/pages/illectronisme.php') {
+  document.getElementById('img').style.display = 'none';
+} else if(document.location.pathname == '/fil-d-ariane/pages/web-et-senior.php') {
+  document.getElementById('img').style.display = 'none';
 } else {
   window.onscroll = function() { scrollIndicator() } ;
   
@@ -45,6 +53,4 @@ if (document.location.href == 'http://localhost/fil-d-ariane/pages/landing-page.
   });
 });
  */
-function scrollUp(){
-  document.getElementById('up').animate.scrollTop(0);
-};
+
