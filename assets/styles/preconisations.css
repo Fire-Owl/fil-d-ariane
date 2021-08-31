@@ -140,10 +140,12 @@ font-size: 20px;
 
 .card1 button:hover{
 box-shadow: #fb8500 2px 2px 2px 2px;
+cursor: pointer;
 }
 
 .card2 button:hover{
 box-shadow: #fb8500 2px 2px 2px 2px;    
+cursor: pointer;
 }
 
 

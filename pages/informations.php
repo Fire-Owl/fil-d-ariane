@@ -28,16 +28,7 @@ L’information et la sensibilisation sont les<br> deux meilleurs moyens de pré
 <div class="wrapper2">
 
 
-<div></div>
-<div class="card1">
-    <h2>L'ILLECTRONISME</h2>
-<p>
-<img src="../assets/images/img_information_card1.svg" alt="">
-</p>
-<a href="illectronisme.php">
-<button>LIRE L'ARTICLE</button>
-</a>
-</div>
+
 <div></div>
 <div class="card2">
     <h2>LE WEB ET LES SENIORS</h2>

@@ -33,7 +33,7 @@
 <img id="secblocimg" src="../assets/images/Mobile development-rafiki 1.svg" alt="">
 </div>
 <div></div>
-<div>
+<div class="marge">
 <li class="secbloc_p">Utiliser des <span id="text_orange">polices de caractère facilitant la lecture</span> pour les malvoyants (voir Luciole) ou les dyslexiques (voir Open-Dyslexic), <span id="text_orange">proposer une option pour changer la taille de la police</span>.
 
 </li>
@@ -64,11 +64,11 @@
 
 <div></div>
 <div class="secbloc">
-<h1 class="second_title">Ergonomie</h1>
+
 <img id="secblocimg" src="../assets/images/Mobile development-rafiki 1.svg" alt="">
 </div>
 <div></div>
-<div>
+<div class="fixing">
 <p class="secbloc_p"><li class="secbloc_p"><span id="text_orange">Proposer l’option de naviguer exclusivement au clavier</span>, optimiser les raccourcis claviers à cet effet.
 </li>
 <li class="secbloc_p"><span id="text_orange">Guider l’utilisateur</span> vers le contenu pertinent de la page (Via des ancres html, un texte plus concis, des menus…) 

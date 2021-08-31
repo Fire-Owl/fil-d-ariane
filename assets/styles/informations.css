@@ -52,7 +52,7 @@ body{
 
 .wrapper2{
     display: grid;
-    grid-template-columns: 1fr 320px 200px 320px 1fr;
+    grid-template-columns: 1fr 320px 1fr;
     margin-top: 5vw;
     margin-right: 4vw;
 
@@ -64,6 +64,7 @@ box-shadow: 2px 2px 2px 2px #222222;
 border-radius: 10px;
 height: 550px;
 margin-bottom: 200px;
+
 }
 
 .card1 h2{
@@ -82,6 +83,7 @@ box-shadow: 2px 2px 2px 2px #222222;
 border-radius: 10px;
 height: 550px;
 margin-bottom: 200px;    
+
 }
 
 .card2 h2{
@@ -100,6 +102,8 @@ margin-left: 35px;
 margin-top: 40px;
 
 }
+
+
 
 .card2 img{
 width: 230px;
@@ -141,10 +145,12 @@ font-size: 20px;
 
 .card1 button:hover{
     box-shadow: 1px 7px #FB8500;
+    cursor: pointer;
 }
 
 .card2 button:hover{
-    box-shadow: 1px 7px #FB8500;    
+    box-shadow: 1px 7px #FB8500;
+    cursor: pointer;    
 }
 
 .retourHaut{

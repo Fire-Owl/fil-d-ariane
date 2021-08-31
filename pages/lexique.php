@@ -4,11 +4,11 @@
     <h1 class=titre1>Lexique</h1>
         <p>Vous êtes souvent perdu avec tout ce jargon numérique? Vous avez l’impression de déchiffrer une langue étrangère? Pas de panique! Voici un court lexique couvrant quelques termes couramment rencontrés, ansi que des ressources externes utiles!</p>
     <h2 class='titre2'>Sommaire</h2>
-        <li>Le matériel</li>
-        <li>Le vocabulaire</li>
-        <li>Pour aller plus loin</li>
+        <a href="#mat"> <li>Le matériel</li></a>
+        <a href="#voc"> <li>Le vocabulaire</li></a>
+        <a href="#far"> <li>Pour aller plus loin</li></a>
 
-    <div class="contenaire_matériel">
+    <div id="mat" class="contenaire_matériel">
         <h4>Périphérique :</h4>
         <p>Matériel que l’on connecte à un ordinateur, y ajoutant des fonctionnalités. On distingue les périphériques d’entrée, qui vont envoyer des informations vers l’ordinateur (comme une souris ou un clavier) et les périphériques de sortie, qui reçoivent des informations de l’ordinateur (comme un écran ou une imprimante).</p>
 
@@ -41,7 +41,7 @@
         <p>Boitier qui permet de faire le lien entre l’utilisateur final et le fournisseur d’accès internet. C’est à celui-ci que l’on connecte le matériel pour utiliser internet.</p>
 
     </div>
-    <h2 class='titre2'>Le vocabulaire</h2>
+    <h2 id="voc" class='titre2'>Le vocabulaire</h2>
     <h4>Système d’exploitation :</h4> 
     <p>Ensemble de programmes qui permet à l’ordinateur de fonctionner correctement et d’utiliser les ressources à sa disposition. Il existe de nombreux systèmes d’exploitation, tels que Windows, Mac OS, ou les distributions Linux.</p> 
 
@@ -87,12 +87,12 @@
     <h4>Spam :</h4> 
     <p>Tout message indésirable que l’on est amené à recevoir via internet, l’équivalent des publicités indésirables dans nos boite aux lettres.</p>
 
-    <h2 class='titre2'>Pour aller plus loin</h2>
+    <h2 id="far" class='titre2'>Pour aller plus loin</h2>
     <p>Vous ne connaissez pas certains mots? Vous voulez en apprendre plus sur un sujet? voici deux sites internet qui vous permettront de trouver ce que vous voulez.</p>
 
-    <div class="titre_light"> Wikipédia : </div>
+    <a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal"><div class="titre_light"> Wikipédia : </div></a>
     <p>Une encyclopédie libre en ligne.</p>
-    <div class="titre_light">Le dictionnaire Larousse</div>
+    <a href="https://www.larousse.fr/dictionnaires/francais"><div class="titre_light">Le dictionnaire Larousse</div></a>
     <p>Cherchez vos mots comme dans un dictionnaire papier!</p>
 
     <div class="contenaire">

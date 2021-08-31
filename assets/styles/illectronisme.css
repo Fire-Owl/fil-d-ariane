@@ -7,42 +7,48 @@
   src: url(../font/Luciole-Regular.ttf);
 }
 
-.content {
+/* .content {
   margin: auto;
   max-width: 1400px;
   margin-left: 7rem;
   margin-top: 7rem;
-}
+} */
 
 .container-texte {
   font-family: "Luciole-Regular";
   font-size: 24px;
+
 }
 
 .container-title {
   margin-bottom: 5rem;
-  margin-left: 2rem;
+  margin-left: 10vw;
+  margin-top: 15vh !important;
   /*   margin: 0 auto 5rem; */
 }
 
 .texte {
   margin-left: 2rem;
+    margin-left: 10vw;
 }
 
 .title_1 {
   font-family: "Luciole-Bold";
   font-size: 40px;
   color: #fb8500;
+    margin-left: 10vw;
 }
 .title_2 {
   font-family: "Luciole-Bold";
   font-size: 40px;
   color: #023047;
+    margin-left: 10vw;
 }
 
 .texte {
   font-family: "Luciole-Regular";
   font-size: 1.5rem;
+    margin-left: 10vw;
 }
 
 .image-1 {
@@ -55,6 +61,7 @@
   display: flex;
   flex-direction: row;
   margin-left: 2rem;
+    margin-left: 10vw;
 }
 
 .container-texte-2 {
@@ -63,12 +70,14 @@
   margin-left: 2rem;
   font-family: "Luciole-Regular";
   font-size: 24px;
+    margin-left: 10vw;
   /* justify-content: center; */
 }
 
 .text_color {
   color: #fb8500;
   font-family: "Luciole-Regular";
+    margin-left: 10vw;
 }
 
 .container-texte-3 {
@@ -76,6 +85,7 @@
   flex-direction: row-reverse;
   font-family: "Luciole-Regular";
   font-size: 24px;
+    margin-left: 10vw;
   /*  justify-content: center; */
 }
 
@@ -84,6 +94,7 @@
   flex-direction: row;
   font-family: "Luciole-Regular";
   font-size: 24px;
+    margin-left: 10vw;
   /*  justify-content: center; */
 }
 
@@ -91,6 +102,7 @@
   display: flex;
   flex-direction: row;
   margin-bottom: 2rem;
+    margin-left: 10vw;
 }
 .container-texte-5 {
   display: flex;
@@ -98,6 +110,7 @@
   font-family: "Luciole-Regular";
   font-size: 24px;
   margin-top: 3rem;
+    margin-left: 10vw;
 }
 
 .container-texte-multitasking {
@@ -106,6 +119,7 @@
   font-family: "Luciole-Regular";
   font-size: 24px;
   margin-top: 2rem;
+    margin-left: 10vw;
 }
 
 .container-texte-6 {
@@ -114,6 +128,7 @@
   font-family: "Luciole-Regular";
   font-size: 24px;
   margin-top: 2rem;
+    margin-left: 10vw;
 }
 
 .container-texte-7 {
@@ -122,6 +137,7 @@
   font-family: "Luciole-Regular";
   font-size: 24px;
   padding-top: 5rem;
+    margin-left: 10vw;
 }
 
 .container-texte-8 {
@@ -130,6 +146,7 @@
   font-family: "Luciole-Regular";
   font-size: 24px;
   margin-top: 2rem;
+    margin-left: 10vw;
 }
 
 .container-texte-9 {
@@ -138,6 +155,7 @@
   font-family: "Luciole-Regular";
   font-size: 24px;
   margin-left: 5rem;
+    margin-left: 10vw;
 }
 
 .container-texte-10 {
@@ -146,6 +164,7 @@
   font-family: "Luciole-Regular";
   font-size: 24px;
 margin-top: -200px;
+  margin-left: 10vw;
 }
 
 .image-2 {
@@ -172,6 +191,7 @@ margin-top: -200px;
 
 .texte-sensibilisation {
   margin-right: 10rem;
+    margin-left: 10vw;
 }
 
 .container-texte-11 {
@@ -182,6 +202,7 @@ margin-top: -200px;
   flex: stretch;
   margin-top: 4rem;
   margin-bottom: 8rem;
+    margin-left: 10vw;
 }
 .image-3 {
   margin-right: 40rem;
